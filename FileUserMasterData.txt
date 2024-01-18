@@ -1,0 +1,4 @@
+Manconi1	Macelleria
+Manconi2	Salumeria
+Manconi3	Gastronomia
+
