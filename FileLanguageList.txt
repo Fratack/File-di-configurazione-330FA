@@ -1,242 +1,324 @@
-Oggetto	Risorsa Stringa	Pannello	Descrizione	it-IT	en-US	de-DE	fr-FR
-Button	Btn_Close_Change_Default	Default		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_Close_PatternForCutting	Pattern		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_Connections_Interface_Close	Connection Interface		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_Exist_Monitor_Close	Exist Monitor		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_SetCutting_Programs_Monitor_Show	Exist Monitor		MOSTRA MONITOR	SHOW MONITOR	MONITOR ANZEIGEN	AFFICHER LE MONITEUR
-Button	Btn_General_Diagnostic_Close	Diagnostica Generale		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_LanguageList_Close	Lista Lingue		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_Maintenance_Close	Manutenzione		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_MessageBox_Exit_App	Spegni Macchina		Esci dalla APP	Exit the APP	Verlasse die APP	Quitter l'APP
-Button	Btn_MessageBox_No	Spegni Macchina		NO	NO	NEIN	NO
-Button	Btn_MessageBox_Restart_Yes	Spegni Macchina		Riavvia la macchina	Restart machine	Starten Sie die Maschine neu	Redemarrer la machine
-Button	Btn_MessageBox_Yes	Spegni Macchina		Spegni la macchina	Turn Off machine	Maschine ausschalten	Eteindre la machine
-Button	Btn_MessageBox_App_Restart	Spegni Macchina		Riavvia l'applicazione	Restart the application	Starten Sie die Anwendung neu	Redemarrez l'application
-Button	Btn_MotionDiagnostic_ApplyChoices_for_Blade	Motion Diag.		LAMA	BLADE	HOBELMESSER	LAME
-Button	Btn_MotionDiagnostic_ApplyChoices_for_Carriadge	Motion Diag.		CARRO	CARRIAGE	SCHNEIDEWAGEN	TRANCHEUSE
-Button	Btn_MotionDiagnostic_ApplyChoices_for_Chain	Motion Diag.		CATENA	CHAIN	KETTE	CHAÎNE
-Button	Btn_MotionDiagnostic_ApplyChoices_for_CuttingCycle	Motion Diag.		CICLO DI TAGLO	CUTTING CYCLE	SCHNEIDZYKLUS	CYCLE DE COUPE
-Button	Btn_MotionDiagnostic_ApplyChoices_for_Plate	Motion Diag.		PIATTO	PLATE	FLACHE	PLAT
-Button	Btn_MotionDiagnostic_ApplyChoices_for_SliceDetacher	Motion Diag.		STACCAFETTA	DETACHER	GETEILTE	PARTAGÉE
-Button	Btn_Product_Master_Data_Cancel	Scelta Prodotto		CANCELLA	CLEAR	CLEAR	CLAIR
-Button	Btn_Product_Master_Data_Close	Scelta Prodotto		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_Product_Master_Data_ConfirmChoices	Scelta Prodotto		CONFERMA	CONFIRM	CONFIRM	CONFIRMER
-Button	Btn_Product_Master_Data_Edit	Scelta Prodotto		EDITA	EDIT	EDIT	EDIT
-Button	Btn_Product_Master_Data_Save	Scelta Prodotto		SALVA	SAVE	SPAREN	SAUVER
-Button	Btn_Save_Change_Default	Default		SALVA	SAVE	SPAREN	SAUVER
-Button	Btn_Save_MotionDiagnostic	Motion Diag.		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_Save_PatternForCutting	Pattern		SALVA	SAVE	SPAREN	SAUVER
-Button	Btn_SelectTable_BladeRPM	Nuovo Programma		GIRI LAMA	BLADE SPEED	KLINGE RPM	VITESSE DE LA LAME
-Button	Btn_SelectTable_CarriageSpeed	Nuovo Programma		FETTE / MIN	SLICES / MIN	SCHEIBEN / MIN	TRANCHES / MIN
-Button	Btn_SelectTable_Parameters_SetCutting_Execute	Principale		ESEGUI	RUN	LAUF	COURSE
-Button	Btn_SelectTable_Pattern	Nuovo Programma		PATTERN	PATTERN	MUSTER	MODÈLE
-Button	Btn_SelectTable_Product_Master_Data	Nuovo Programma		PRODOTTO	PRODUCT	PRODUKT	PRODUITS
-Button	Btn_SelectTable_SetCutting_Exists	Principale		ESISTENTE	EXISTS	BESTEHENDEN	EXISTANT
-Button	Btn_SelectTable_SetCutting_New	Principale		NUOVO	NEW	NEW	NEUF
-Button	Btn_SelectTable_Slices	Nuovo Programma		QUANTITA'	QUANTITY	MENGE	QUANTITE'
-Button	Btn_SelectTable_ThicknessSlices	Nuovo Programma		SPESSORE	THICKNESS	DICKE	EPAISSEUR
-Button	Btn_SelectTable_UserSetup_ChangeDefault	Menu User		DEFAULT	DEFAULT	DEFAULT	DEFAULT
-Button	Btn_SelectTable_UserSetup_Motion_Verify	Menu User		MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	MOTION DIAG.
-Button	Btn_SelectTable_UserSetup_PatternForCutting	Menu User		PATTERN	PATTERN	MUSTER	MODÈLE
-Button	Btn_SelectTable_UserSetup_Setting_Generics	Menu User		GENERALE	GENERAL	GENERAL	GENERAL
-Button	Btn_SelectTable_UserSetup_Settings_Sensors	Menu User		SENSORI	SENSORS	SENSOREN	CAPTEURS
-Button	Btn_SetCutting_Programs_ConfirmSelection	Seleziona Esistente		ESEGUI	RUN	LAUF	COURSE
-Button	Btn_SetCutting_Programs_Tap_Cancel	Seleziona Esistente		ANNULLA	CANCEL	ZURÜCK	ANNULER
-Button	Btn_SettingsGenerics_Close	Impostazioni: Generale		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_SettingsSensors_Encoder_Close	Impostazione Sensori		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_SettingsSensors_Encoder_Close1	Info : Versioni		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_SettingsSensors_Potentiometer_Sail_Max_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER
-Button	Btn_SettingsSensors_Potentiometer_Sail_Min_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER
-Button	Btn_SettingsSensors_Potentiometer_Sail_Offset_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER
-Button	Btn_SettingsSensors_Potentiometer_Sail_Setup_Store	Impostazione Sensori		SALVA SETUP POTENZIOMETRO	SAVE POTENTIOMETER SETUP	POTENZIOMETEREINSTELLUNGEN SPEICHERN	SAUVEGARDER LA CONFIGURATION DU POTENTIOMÈTRE
-Button	Btn_SettingsSensors_SetHomePosition	Impostazione Sensori		IMPOSTA POSIZIONE DI HOME	SET HOME POSITION	SET HOME POSITION	SET POSITION DE REFERENCE
-Button	Btn_Statistics_Close	Statistics		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_Maintenance_Washing	Manutenzione		LAVAGGIO	WASHING	WASHEN	LAVAGE
-Button	Btn_Maintenance_Washing_Stop	Manutenzione		ARRESTA	STOP	STOPP	STOP
-Button	Btn_SelectTable_Program_InvoqueArchive	Archivio		ARCHIVIO	ARCHIVE	ARCHIV	ARCHIVE
-Button	Btn_SetCutting_StoringFile_Close	Archivio		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-Button	Btn_SetCutting_StoringFile_Save	Archivio		SALVA	SAVE	SPAREN	SAUVER
-Button	Btn_UsersList_Next	OPERATORI		PROSEGUI	CONTINUE	WEITERMACHEN	CONTINUER
-Button	Btn_SelectTable_Planes	Nuovo Programma		RIPETIZIONE STRATI	REPETITION STRETCHES	WIEDERHOLUNG DehnUbungen	ETIREMENTS DE REPETITION
-Button	Btn_SelectTable_Parameters_SetCutting_Pause	Nuovo Programma		PAUSA	PAUSE	BRECHEN	CASSER
-Button	Btn_New_Program_Parameters_SetCutting_Close	Nuovo Programma		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-ButtonSpec	Btn_Close_Save_Selections	Principale		SPEGNI LA MACCHINA	POWER OFF MACHINE	MASCHINE AUSSCHALTEN	ETEINDRE LA MACHINE
-GlobalVar	ButtonText_Close	Variabili Globali		CHIUDI	CLOSE	SCHLIESSEN	FERMER
-GlobalVar	ButtonText_Continue	Variabili Globali		CONTINUA	CONITNUE	WEITER	CONTINUE
-GlobalVar	ButtonText_CuttingSetting	Variabili Globali		IMPOSTA TAGLIO	SET CUT	STELLEN SIE DEN SCHNITT EIN	DÉFINIR LA COUPE
-GlobalVar	ButtonText_CuttingsParameters	Variabili Globali		PARAMETRI DI TAGLIO	CUTTING PARAMETERS	SCHNEIDPARAMETER	PARAMETRES DE COUPE
-GlobalVar	ButtonText_Ends	Variabili Globali		TERMINA	ENDS	ENDEN	EXTRE'MITE'S
-GlobalVar	ButtonText_Run	Variabili Globali		ESEGUI	RUN	LAUF	COURSE
-GlobalVar	ButtonText_Pause	Variabili Globali		PAUSA	PAUSE	BRECHEN	CASSER
-GlobalVar	ButtonText_Save	Variabili Globali		SALVA	SAVE	SPAREN	SAUVER
-GlobalVar	ButtonText_ShutDownMachine	Variabili Globali		SPEGNI LA MACCHINA	TURN OFF THE MACHINE	MASCHINE AUSSCHALTEN	ETEINDRE LA MACHINE
-GlobalVar	ButtonText_UserSetup	Variabili Globali		SETUP	SETUP	SETUP	CONFIGURATION
-GlobalVar	ButtonText_User	Variabili Globali		Operatore	User	Benutzer	Utilisateur
-GlobalVar	ButtonText_Department	Variabili Globali		Reparto	Departement	Abteilung	Departement
-GlobalVar	GlobalVar_CheckBoxText_PatternOptionExpand	Variabili Globali		ESPANDE	EXPAND	ERWEITERT	EXPLEND
-GlobalVar	GlobalVar_CheckBoxText_PatternOptionCompress	Variabili Globali		COMPRIME	COMPRESS	KOMPRIMIERT	COMPRIME
-GlobalVar	ButtonText_ProductName	Variabili Globali		Nome	Name	Name	Nom
-GlobalVar	ButtonText_ProductDescription	Variabili Globali		Descrizione	Description	Beshreibung	Description
-GlobalVar	GlobalVar_Message_EndCycleInAdvance	Variabili Globali		Richiesta di arresto anticipato: attendere qualche istante.	Early stop request: Wait a few moments.	Bitte um vorzeitiges Stoppen: Warten Sie einen Moment.	Demande d'arre't anticipe': attendez quelques instants.
-GlobalVar	GlobalVar_Message_InitInProgress	Variabili Globali		Inizializzazione in corso: attendere qualche istante	Initializing: wait a few moments	Initialisierung: Warten Sie einen Moment	Initialisation: attendez quelques instants
-GlobalVar	GlobalVar_Message_PointWriting	Variabili Globali		Scrittura del punto	Writing the point	Den Punkt aufschreiben	E'crire le point
-GlobalVar	GlobalVar_Message_StepsForEncoderPulse	Variabili Globali		passi per ogni impulso encoder carro	steps for each wagon encoder pulse	Schritte für jeden Wagen-Encoder-Impuls	e'tapes pour chaque impulsion d'encodeur de wagon
-GlobalVar	PanelText_MachineStopping	Variabili Globali		Macchina in arresto, attendere...	Machine stopped, wait...	Maschinen stehen still, bitte warten...	Machines arretees, veuillez patienter…
-GlobalVar	PanelText_MachineRestart	Variabili Globali		Macchina in riavvio, attendere...	Machine restarting, please wait...	Maschine wird neu gestartet, bitte warten...	Redemarrage de la machine, veuillez patienter...
-GlobalVar	PanelText_AppRestart	Variabili Globali		Applicazione in riavvio, attendere...	Application restarting, please wait...	Anwendung wird neu gestartet, bitte warten...	Redemarrage de l'application, veuillez patienter...
-ListView	Album_PatterForCutting_IconList_Arrangment	Pattern		  Lista Disposizione assegnabili al Pattern	Layout list assignable to the Pattern	Layoutliste, die dem Pattern zugewiesen werden kann	Liste de mise en page assignable au motif
-ListView	Album_PatterForCutting_IconList_Dimension	Pattern		  Lista Dimensioni assegnabili al Pattern	List of dimensions assignable to the Pattern	Liste der Dimensionen, die dem Muster zugewiesen werden können	Liste des dimensions assignables au motif
-ListView	Album_PatterForCutting_IconList_Form	Pattern		  Lista Forme assegnabili al Pattern	List of Forms that can be assigned to the Pattern	Liste der Formulare, die dem Muster zugewiesen werden können	Liste des formulaires pouvant être affectés au motif
-TextBlock	Lbl_ChangDefault_Saving	Default		ATTENDERE QUALCHE ISTANTE: SALVATAGGIO DEI PARAMETRI DI DEFAULT IN CORSO	WAIT SOME INSTANT: SAVING DEFAULT PARAMETERS IN PROGRESS	WARTEN SIE EINEN SOFORT: SPEICHERN DER STANDARDPARAMETER IM LAUFEN	ATTENDRE QUELQUE INSTANT: SAUVEGARDE DES PARAMÈTRES PAR DÉFAUT EN COURS
-TextBlock	lbl_ChangeDefault_Range_ArrangementSlices_Title	Default		DISPOSIZIONE FETTE	SLICING ARRANGEMENT	SLICING-ANORDNUNG	AGENCEMENT DE TRANCHES
-TextBlock	lbl_ChangeDefault_Range_BladeRPM_Title	Default		GIRI LAMA	BLADE TURNS	KLINGE DREHT	TOURS DE LAME
-TextBlock	lbl_ChangeDefault_Range_CarriageSpan_Title	Default		CORSA CARRO	CARRIAGE SPACE	WAGENPLATZ	ESPACE DE TRANSPORT
-TextBlock	lbl_ChangeDefault_Range_CarriageSpeed_Title	Default		VELOCITA' CARRO	CARRIAGE SPEED	WAGENGESCHWINDIGKEIT	WAGON SPEED
-TextBlock	lbl_ChangeDefault_Range_ProductSize_Title	Default		X, Y COFFICIENTE	X, Y COEFFICIENT	X, Y FACTOR	X, Y FACTEUR
-TextBlock	lbl_ChangeDefault_Range_Slices_Title	Default		NUMERO FETTE	NUMBER OF SLICES	ANZAHL SCHEIBEN	NOMBRE DE TRANCHES
-TextBlock	lbl_ChangeDefault_Range_ThicknessSlices_Title	Default		SPESSORE FETTE	THICKNESS OF SLICES	SCHEIBENDICKE	EPAISSEUR DE TRANCHES
-TextBlock	lbl_ChangeDefault_RAnge_Titles_Increment	Default		INCREMENTO	INCREASE	ERHÖHEN,	AUGMENTATION
-TextBlock	lbl_ChangeDefault_Range_Titles_Max	Default		MASSIMO	MAXIMUM	MAXIMUM	MAXIMUM
-TextBlock	lbl_ChangeDefault_Range_Titles_Min	Default		MINIMO	MINIMUM	MINIMUM	MINIMUM
-TextBlock	lbl_ChangeDefault_Range_Titles_Preference	Default		PREFERENZA	PREFERENCE	BEVORZUGEN	PRÉFÉRENCE
-TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Enable	Default		ABILITA	ENABLE	ENABLE	PERMETTRE
-TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Label	Default		ETICHETTA	LABEL	ETIKETTIEREN	ÉTIQUETTE
-TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Ok	Default		OK	OK	OK	OK
-TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Tag	Default		TAG	TAG	TAG	TAG
-TextBlock	lbl_ChangeDefault_Title	Default		EDITORE DI   PARAMETRI  /  INTERVALLI   PREDEFINITI	EDITOR OF PARAMETERS / DEFAULT INTERVALS	HERAUSGEBER VON PARAMETERN / STANDARDINTERVALLEN	EDITEUR DES PARAMETRES / INTERVALLES PAR DEFAUT
-TextBlock	Lbl_Connections_Interface_Coonection_Result	Connection Interface		IMPOSSIBILE INDIVIDUARE RETI	UNABLE TO IDENTIFY NETWORKS	NETZWERKE KÖNNEN NICHT IDENTIFIZIERT WERDEN	IMPOSSIBLE D'IDENTIFIER LES RÉSEAUX
-TextBlock	Lbl_Connections_Interface_Coonection_Title	Connection Interface		RICERCA RETE IN CORSO	NETWORK SEARCH IN PROGRESS	NETZWERKSUCHE IN BEARBEITUNG	RECHERCHE EN RESEAU EN COURS
-TextBlock	Lbl_Connections_Interface_Coonection_Try_Title	Connection Interface		TENTATIVO #	ATTEMPT #	VERSUCH #	TENTATIVE #
-TextBlock	lbl_Connections_Interface_Title	Connection Interface		INTERFACCE DI CONNESSIONE ALLA RETE	NETWORK CONNECTION INTERFACES	NETZWERKANSCHLUSS-SCHNITTSTELLEN	INTERFACES DE CONNEXION RESEAU
-TextBlock	lbl_Exist_Monitor_Title	Exist Monitor		PROGRAMMA SELEZIONATO IN ESECUZIONE	PROGRAM SELECTED IN EXECUTION	PROGRAMM IN AUSFÜHRUNG AUSGEWÄHLT	PROGRAMME SELECTIONNE EN EXECUTION
-TextBlock	Lbl_General_Diagnostic_GenericStates_BladeActivity_Title	Diagnostica Generale		Lama	Blade	Hobelmesser	Lame
-TextBlock	Lbl_General_Diagnostic_GenericStates_CarriageActivity_Title	Diagnostica Generale		Carro	Carriage	Schneidewagen	Trancheuse
-TextBlock	Lbl_General_Diagnostic_GenericStates_ChainActivity_Title	Diagnostica Generale		Catena	Chain	Kette	Chaîne
-TextBlock	Lbl_General_Diagnostic_GenericStates_Title	Diagnostica Generale		STATI GENERICI	GENERIC STATES	ALLGEMEINE STAATEN	ÉTATS GÉNÉRIQUES
-TextBlock	Lbl_General_Diagnostic_Microswitch_AutoMan_Title	Diagnostica Generale		Automatico / Manuale :	Automatic / Manual :	Automatisch / Manuell: :	Automatique / Manuel: :
-TextBlock	Lbl_General_Diagnostic_Microswitch_Carriage_Title	Diagnostica Generale		Carro in Home :	Carrage in Home :	Warenkorb in Hom :	Panier dans Hom :
-TextBlock	Lbl_General_Diagnostic_Microswitch_PlateHome_Title	Diagnostica Generale		Piatto in Home :	Plate in Home :	Gericht zu Hause :	Plat dans Hom :
-TextBlock	Lbl_General_Diagnostic_Microswitch_PlateOpen_Title	Diagnostica Generale		Piatto tutto Aperto :	Plate All Open :	Offene Platte :	Plaque ouverte :
-TextBlock	Lbl_General_Diagnostic_MicroSwitch_Title	Diagnostica Generale		MICRO INTERRUTTORI	MICRO SWITCHES	MIKROSCHALTER	MICRO COMMUTATEURS
-TextBlock	Lbl_General_Diagnostic_Sensor_Carriage_Title	Diagnostica Generale		Posizione Carro :	Carriage Position :	Position Einkaufswagen:	Panier de Position:
-TextBlock	Lbl_General_Diagnostic_Sensor_Chain_Title	Diagnostica Generale		Posizione Catena :	Chain Position :	Kette Position:	Position de la Chaîne:
-TextBlock	Lbl_General_Diagnostic_Sensor_Encoder_Title	Diagnostica Generale		Posizione Staccafetta :	Detacher Position :	Geteilte Position:	Position Partagée:
-TextBlock	Lbl_General_Diagnostic_Sensor_Plate_Title	Diagnostica Generale		Posizione Piatto :	Plate Position :	Flache Position:	Position à Plat:
-TextBlock	Lbl_General_Diagnostic_Sensor_Sail_Title	Diagnostica Generale		Apertura Vela :	Sail Opening :	Segel Eröffnung	Ouverture de la Voile
-TextBlock	Lbl_General_Diagnostic_Sensor_Title	Diagnostica Generale		SENSORI	SENSORS	SENSOREN	CAPTEURS
-TextBlock	lbl_General_Diagnostic_Title	Diagnostica Generale		DIAGNOSTICA GENERALE	GENERAL DIAGNOSTICS	ALLGEMEINE DIAGNOSE	DIAGNOSTIC GÉNÉRAL
-TextBlock	lbl_Info_Fw_Version_Node_0_Title	Info : Versioni		VERSIONE FW @ NODO 0 (STEPPERS DRIVERS)	VERSIONS FW @ NODE 0 (STEPPERS DRIVERS)	VERSIONS FW @ KNOT 0 (STEPPERS DRIVERS)	VERSIONS FW @ NOEUD 0 (STEPPERS DRIVERS)
-TextBlock	lbl_Info_Fw_Version_Node_1_Title	Info : Versioni		VERSIONE / RELEASE FW @ NODO 1 (HV DRIVERS)	VERSIONS / RELEASE FW @ NODE 1 (HV DRIVERS)	VERSIONS / RELEASE FW @ KNOT 1 (HV DRIVERS)	VERSIONS / RELEASE FW @ NOEUD 1 (HV DRIVERS)
-TextBlock	lbl_Info_Fw_Version_Title	Info : Versioni		FIRMWARE	FIRMWARE	FIRMWARE	FIRMWARE
-TextBlock	lbl_Info_Hw_Title	Info : Versioni		HARDWARE	HARDWARE	HARDWARE	HARDWARE
-TextBlock	lbl_Info_Sw_Build_Title	Info : Versioni		BUILD	BUILD	BUILD	BUILD
-TextBlock	lbl_Info_Sw_Date_Release_Node_0_Title	Info : Versioni		DATA RELEASE @ NODO 0	DATE RELEASE @ NODE 0	DATE RELEASE @ KNOT 0	DATE RELEASE @ NOEUD 0
-TextBlock	lbl_Info_Sw_Date_Release_Node_1_Title	Info : Versioni		DATA RELEASE @ NODO 1	DATE RELEASE @ NODE 1	DATE RELEASE @ KNOT 1	DATE RELEASE @ NOEUD 1
-TextBlock	lbl_Info_Sw_Date_Release_Title	Info : Versioni		DATA RELEASE	DATE RELEASE	DATUM RELEASE	DATE RELEASE
-TextBlock	lbl_Info_Sw_Revision_Title	Info : Versioni		REVISIONE	REVISION	REVIEW	EXAMEN
-TextBlock	lbl_Info_Sw_Title	Info : Versioni		SOFTWARE	SOFTWARE	SOFTWARE	SOFTWARE
-TextBlock	lbl_Info_Sw_Version_Title	Info : Versioni		VERSIONE	VERSION	VERSIONEN	VERSIONS
-TextBlock	Lbl_LanguageList	Lista Lingue		LISTA LINGUE	LANGUAGE LIST	SPRACHLISTE	LISTE DE LANGUE
-TextBlock	lbl_Maintenance_Title	Manutenzione		MANUTENZIONE E PULIZIA	MAINTENANCE AND CLEANING	WARTUNG UND REINIGUNG	ENTRETIEN ET NETTOYAGE
-TextBlock	lbl_MotionDiagnostic_ApplyChoices_Titles	Motion Diag.		APPLICA SCELTE A:	APPLY CHOICES A:	WENDEN SIE WAHLEN AN A:	APPLIQUER LES CHOIX A:
-TextBlock	lbl_MotionDiagnostic_Following_Titles	Motion Diag.		INSEGUIMENTO CICLO Attivo / Disattivo	TRACKING CYCLE Active / Inactive	TRACKING CYCLE Aktiv / Inaktiv	CYCLE DE SUIVI Actif / Inactif
-TextBlock	lbl_MotionDiagnostic_Kill_Titles	Motion Diag.		KILL	KILL	KILL	KILL
-TextBlock	lbl_MotionDiagnostic_Quantity_Titles	Motion Diag.		QNT	QNT	QNT	MENGE
-TextBlock	lbl_MotionDiagnostic_Range_Blade_Title	Motion Diag.		LAMA	BLADE	HOBELMESSER	LAME
-TextBlock	lbl_MotionDiagnostic_Range_Carriadge_Title	Motion Diag.		CARRO	CARRIAGE	SCHNEIDEWAGEN	TRANCHEUSE
-TextBlock	lbl_MotionDiagnostic_Range_Chain_Title	Motion Diag.		CATENA	CHAIN	KETTE	CHAÎNE
-TextBlock	lbl_MotionDiagnostic_Range_CuttingCycle_Title	Motion Diag.		CICLO DI TAGLIO	CUTTING CYCLE	SCHNEIDZYKLUS	CYCLE DE COUPE
-TextBlock	lbl_MotionDiagnostic_Range_Plate_Title	Motion Diag.		PIATTO	PLATE	FLACHE	PLAT
-TextBlock	lbl_MotionDiagnostic_Range_SliceDetacher_Title	Motion Diag.		STACCAFETTA	DETACHER	GETEILTE	PARTAGÉE
-TextBlock	lbl_MotionDiagnostic_Speed_Titles	Motion Diag.		VELOCITA' UP / DOWN	SPEED UP / DOWN	GESCHWINDIGKEIT UP / DOWN	VITESSE HAUT / BAS
-TextBlock	lbl_MotionDiagnostic_Start_Titles	Motion Diag.		AVVIO	START	START	DÉMARRAGE
-TextBlock	lbl_MotionDiagnostic_Stop_Titles	Motion Diag.		ARRESTO	STOP	STOPP	ARRÊT
-TextBlock	lbl_MotionDiagnostic_Title	Motion Diag.		MOVIMENTAZIONE: DIAGNOSTICA	MOVEMENTATION: DIAGNOSTIC	HANDHABUNG: DIAGNOSE	MANIPULATION: DIAGNOSTIC
-TextBlock	Lbl_PassordKeyboard_Digit_Container_Title	Password		PASSWORD	PASSWORD	PASSWORT	MOT DE PASSE
-TextBlock	lbl_PatternForCutting_FileStored_Title	Pattern		LISTA ESISTENTI	EXISTING LIST	BESTEHENDE LISTE	LISTE EXISTANTE
-TextBlock	lbl_PatternForCutting_FileToStore_Title	Pattern		SALVA NUOVO	SAVE NEW	NEU SPEICHERN	SAUVEZ NOUVEAU
-TextBlock	lbl_PatternForCutting_Plate_Arrangment_Area_Title	Pattern		DIMENSIONE UTILE	USEFUL DIMENSION	NÜTZLICHE ABMESSUNGEN	DIMENSION UTILE
-TextBlock	lbl_PatternForCutting_Plate_Dimension_Title	Pattern		DIMENSIONE PIATTO	PLATE DIMENSION	FLACHE ABMESSUNG	DIMENSION PLAT
-TextBlock	lbl_PatternForCutting_Plate_Item_Dimension_Title	Pattern		DIMENSIONE OGGETTO	OBJECT DIMENSION	GRÖSSE DES OBJEKTS	TAILLE DU SUJET
-TextBlock	lbl_PatternForCutting_Plate_Item_Numbers_Title	Pattern		NUMERO OGGETTI	NUMBER OF OBJECTS	ANZAHL DER OBJEKTE	NOMBRE D'OBJETS
-TextBlock	lbl_PatternForCutting_Plate_Layout_Area_Offset_Title	Pattern		OFFSET  DIMENSIONE UTILE	OFFSET USEFUL DIMENSION	OFFSET NÜTZLICHE ABMESSUNG	DIMENSION UTILE OFFSET
-TextBlock	lbl_PatternForCutting_Plate_Shape_Title	Pattern		ASSEGNA ICONE	ASSIGN ICONS	ICON ZUWEISUNG	AFFECTATION D'ICÔNE
-TextBlock	lbl_PatternForCutting_Plate_ShapeAssegned_Title	Pattern		ICONE ASSEGNATE	ICONS ASSIGNED	ICONS DIE ZUGEWIESEN SIND	ICONS, DIE ZUGEWIESEN SIND
-TextBlock	lbl_PatternForCutting_PlateDimension_Titles_X	Pattern		NOME DEL PATTERN	PATTERN'S NAME	NAME DES MUSTERS	NOM DU MOTIF
-TextBlock	lbl_PatternForCutting_Title	Pattern		EDITOR PATTERN : MODELLI DI TAGLIO	EDITOR PATTERN: CUTTING MODELS	EDITOR-MUSTER: MODELLE SCHNEIDEN	MOTIF DE L'ÉDITEUR: MODÈLES DE COUPE
-TextBlock	Lbl_Product_Master_Data_DescriptionExists_Title	Scelta Prodotto		Descrizione	Description	Beshreibung	Description
-TextBlock	Lbl_Product_Master_Data_DescriptionNewName_Title	Scelta Prodotto		Descrizione	Description	Beshreibung	Description
-TextBlock	lbl_Product_Master_Data_New_Title	Scelta Prodotto		NUOVO	NEW	NEW	NEUF
-TextBlock	Lbl_Product_Master_Data_NewName_Title	Scelta Prodotto		Nome	Name	Name	Nom
-TextBlock	Lbl_Product_Master_Data_SelectExists_Title	Scelta Prodotto		Nome	Name	Name	Nom
-TextBlock	lbl_Product_Master_Data_Selection_Title	Scelta Prodotto		SELEZIONE	SELECTION	AUSWAHL	SELECTION
-TextBlock	lbl_Product_Master_Data_Title	Scelta Prodotto		PRODOTTI: SELEZIONE / NUOVO	PRODUCTS: SELECTION / NEW	PRODUKTE: AUSWAHL / NEU	PRODUITS: SELECTION / NOUVEAU
-TextBlock	Lbl_SelectTable_Parameters_SetCutting_Pag_1_Real_Title	Nuovo Programma		Reale	Real	Real	Reel
-TextBlock	Lbl_SelectTable_Parameters_SetCutting_Pag_2_Real_Title	Nuovo Programma		Reale	Real	Real	Reel
-TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_1_Edit_Title	Nuovo Programma		Edita	Edit	Edit	Edit
-TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_1_Setting_Title	Nuovo Programma		Imposta	Set	Set	Ensemble
-TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_2_Edit_Title	Nuovo Programma		Edita	Edit	Edit	Edit
-TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_2_Setting_Title	Nuovo Programma		Imposta	Set	Set	Ensemble
-TextBlock	lbl_SetCutting_Programs_Title	Seleziona Esistente		LISTA PROGRAMMI DI TAGLIO	LIST OF CUTTING PROGRAMS	LISTE DER SCHNITTPROGRAMME	LISTE DES PROGRAMMES DE COUPE
-TextBlock	lbl_SetCutting_Programs_Titles_BladeRPM	Seleziona Esistente		GIRI LAMA	BLADE SPEED	KLINGE RPM	VITESSE DE LA LAME
-TextBlock	lbl_SetCutting_Programs_Titles_Carriagepeed	Seleziona Esistente		FETTE / MIN	SLICES / MIN	SCHEIBEN / MIN	TRANCHES / MIN
-TextBlock	lbl_SetCutting_Programs_Titles_CarriageSpan	Seleziona Esistente		DIMENSIONE	DIMENSION	Größe	TAILLE
-TextBlock	lbl_SetCutting_Programs_Titles_DescriptionProgramList	Seleziona Esistente		< DESCRIZIONE >	< DESCRIPTION >	< BESCHREIBUNG >	< DESCRIPTION >
-TextBlock	lbl_SetCutting_Programs_Titles_DescriptionProgramList1	Seleziona Esistente		[ PRODOTTO ]	[ PRODUCT ]	[ PRODUKT ]	[ PRODUIT ]
-TextBlock	lbl_SetCutting_Programs_Titles_Product_Arrangment	Seleziona Esistente		DISPOSIZIONE	ARRANGEMENT	ANORDNUNG	DISPOSITION
-TextBlock	lbl_SetCutting_Programs_Titles_ProductSize	Seleziona Esistente		FORMA	SHAPE	FORM	FORME
-TextBlock	lbl_SetCutting_Programs_Titles_ProgramsList	Seleziona Esistente		PROGRAMMA	PROGRAM	PROGRAMM	PROGRAMME
-TextBlock	lbl_SetCutting_Programs_Titles_Slices_Row_1_Title	Seleziona Esistente		QUANTITA'	QUANTITY	MENGE	QUANTITE'
-TextBlock	lbl_SetCutting_Programs_Titles_Slices_Row_2_Title	Seleziona Esistente		FETTE / PIANI	SLICES / PLANES	SCHEIBEN / PLANE	TRANCHES / PLANS
-TextBlock	lbl_SetCutting_Programs_Titles_ThicknessSlices	Seleziona Esistente		SPESSORE	THICKNESS	DICKE	EPAISSEUR
-TextBlock	lbl_SettingsGenerics_Color_Background_Title	Impostazioni: Generale		COLORE < SFONDO >	COLOR < BACKGROUND >	< HINTERGRUND > FARBE	COULEUR < FOND >
-TextBlock	lbl_SettingsGenerics_ExecuteButtonEnable_Title	Impostazioni: Generale		VISUALIZZA PULSANTE < ESEGUI >	VIEW < RUN > BUTTON	TASTE < AUSFÜHREN > ANZEIGEN	VOIR LE BOUTON < EXECUTER >
-TextBlock	lbl_SettingsGenerics_Title	Impostazioni: Generale		IMPOSTAZIONI: GENERALE	SETTINGS: GENERAL	EINSTELLUNGEN: ALLGEMEIN	PARAMÈTRES: GÉNÉRAL
-TextBlock	lbl_SettingsGenerics_Title1	Impostazioni: Generale		GENERALE	GENERAL	GENERAL	GENERAL
-TextBlock	Lbl_SettingsSensors_Encoder_GenericErrorRegister_Title	Impostazione Sensori		ERRORI SENSORI (reg. 901)	SENSORS ERRORS (reg. 901)	SENSORFEHLER (reg. 901)	DETECTEURS D'ERREURS (reg. 901)
-TextBlock	Lbl_SettingsSensors_Encoder_GenericStatusRegister_Title	Impostazione Sensori		REGISTRO DI STATO (reg. 000)	STATUS REGISTER (reg. 000)	STATUSREGISTER (reg. 000)	ENREGISTREMENT DE STATUT (reg. 000)
-TextBlock	lbl_SettingsSensors_Encoder_Position_Actual_Title	Impostazione Sensori		POSIZIONE ATTUALE	ACTUAL POSITION	AKTUELLE POSITION	POSITION ACTUELLE
-TextBlock	Lbl_SettingsSensors_Encoder_SerialNumber_Title	Impostazione Sensori		ERRORI MAGNETE (reg. 400)	COIL ERRORS (reg. 400)	MAGNET FEHLER (reg. 400)	ERREURS D'AIMANT (reg. 400)
-TextBlock	Lbl_SettingsSensors_Encoder_Speed_Actual_Title	Impostazione Sensori		OFFSET ATTUALE (reg. 403)	ACTUAL OFFSET (reg. 403)	PRÄSENTIEREN SIE OFFSET (reg. 403)	FFSET PRÉSENT (reg. 403)
-TextBlock	Lbl_SettingsSensors_Encoder_Temperature_Actual_Title	Impostazione Sensori		POSIZIONE HOME (reg. 408)	HOME POSITION (reg. 408)	AUSGANGPOSITION (reg. 408)	POSITION DE BASE (reg. 408)
-TextBlock	lbl_SettingsSensors_Encoder_Title	Impostazione Sensori		ENCODER PETTINE STACCAFETTA	ENCODER DETACHER	KOPPLER ENCODER	ENCODEUR COMB PARTAGEE
-TextBlock	lbl_SettingsSensors_Fw_Version_Title1	Info : Versioni		VERSIONI	VERSIONS	VERSIONEN	VERSIONS
-TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_Max_Title	Impostazione Sensori		VALORE SU FONDO SCALA	VALUE ON SCALA FUND	WERT AUF SCALA FUND	VALEUR SUR LE FONDS SCALA
-TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_Min_Title	Impostazione Sensori		VALORE AL MINIMO	VALUE AT MINIMUM	MINDESTWERT	VALEUR AU MINIMUM
-TextBlock	lbl_SettingsSensors_Potentiometer_Sail_Offset_Title	Impostazione Sensori		OFFSET	OFFSET	OFFSET	OFFSET
-TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_RelativeAndReal_Title	Impostazione Sensori		VALORE RELATIVO	RELATIVE VALUE	RELATIVER WERT	VALEUR RELATIVE
-TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_Resolution_Title	Impostazione Sensori		RISOLUZIONE	RESOLUTION	AUFLÖSUNG	RÉSOLUTION
-TextBlock	lbl_SettingsSensors_Potentiometer_Sail_Title	Impostazione Sensori		POTENZIOMETRO VELA	POTENTIOMETER SAIL	POTENZIOMETER SEGEL	POTENTIOMETRE VOILE
-TextBlock	lbl_SettingsSensors_Title	Impostazione Sensori		IMPOSTAZIONI: SENSORI	SETTINGS: SENSORS	EINSTELLUNGEN: SENSOREN	REGLAGES: CAPTEURS
-TextBlock	lbl_Statistics_Pie_Title	Statistics		RAPPRESENTAZIONE A TORTA	PIE REPRESENTATION	TORTE-VERTRETUNG	REPRÉSENTATION DE GÂTEAU
-TextBlock	lbl_Statistics_Title	Statistics		STATISTICA	STATISTICS	STATISTIK	STATISTIQUES
-TextBlock	TBlock_Exist_Monitor_BladeSpeed_Title	Exist Monitor		"GIRI &#xA;LAMA"	BLADE SPEED	KLINGE RPM	VITESSE DE LA LAME
-TextBlock	TBlock_Exist_Monitor_CarriageSpeed_Title	Exist Monitor		FETTE / MIN	SLICES / MIN	SCHEIBEN / MIN	TRANCHES / MIN
-TextBlock	TBlock_Exist_Monitor_Pattern_Arrangement_Title	Exist Monitor		DISPOSIZIONE	ARRANGEMENT	ANORDNUNG	DISPOSITION
-TextBlock	TBlock_Exist_Monitor_Pattern_Dimension_Title	Exist Monitor		DIMENSIONE	DIMENSION	Größe	TAILLE
-TextBlock	TBlock_Exist_Monitor_Pattern_Form_Title	Exist Monitor		FORMA	SHAPE	FORM	FORME
-TextBlock	TBlock_Exist_Monitor_Pattern_Title	Exist Monitor		PATTERN	PATTERN	MUSTER	MODÈLE
-TextBlock	TBlock_Exist_Monitor_RealValue_Title	Exist Monitor		REAL	REAL	REAL	RÉEL
-TextBlock	TBlock_Exist_Monitor_SettedValue_Title	Exist Monitor		SET	SET	SET	SET
-TextBlock	TBlock_Exist_Monitor_Sleces_Title	Exist Monitor		QUANTITA'	QUANTITY	MENGE	QUANTITE'
-TextBlock	TBlock_Exist_Monitor_Planes_Title	Exist Monitor		PIANI	PLANES	PLANE	PLANS
-TextBlock	TBlock_Exist_Monitor_Thickness_Title	Exist Monitor		SPESSORE	THICKNESS	DICKE	ÉPAISSEUR
-TextBlock	TBlock_MessageBox_Title	Spegni Macchina		Confermi uscita?	Confirm exit?	Freigabe bestätigen?	Confirmer la sortie?
-TextBlock	TBlock_MotionDiagnostic_SlicesCutted	Motion Diag.		Ciclo #	Cycle #	Zyklus #	Cycle #
-TextBlock	lbl_SetCutting_StoringFile_Title	Archivio		EDITOR PROGRAMMI : GESTIONE ARCHIVIO FILES	PROGRAM EDITOR : MANAGMENT FILES	PROGRAMM EDITOR : DATEIEN ARCHIVVERWALTUNG	EDITEUR DE PROGRAMME : GESTION FILES ARCHIVES
-TextBlock	lbl_SetCutting_PlateDimension_Titles_X	Archivio		NOME DEL PROGRAMMA	PROGRAM NAME	PROGRAMMNAME	NOM DU PROGRAMME
-TextBlock	lbl_SetCutting_FileStored_Title	Archivio		LISTA ESISTENTI	EXISTENTS LIST	VORHANDENE LISTE	LISTE EXISTANTE
-TextBlock	lbl_SetCutting_FileToStore_Title	Archivio		SALVA NUOVO	SAVE NEW	NEU SPEICHERN	ENREGISTRER NOUVEAU
-TextBlock	Lbl_SetCutting_ProgramDescription_Title	Archivio		Descrizione Programma	Program Description	Programm Beschreibung	Description du programme
-TextBlock	Lbl_SelectTable_Parameters_SetCutting_Pag_1_Option_Title	Nuovo Programma		Opzione	Option	Moglichkeit	Option
-TextBlock	Lbl_UsersList	OPERATORI		LISTA OPERATORI	LIST OF USERS	LISTE DER BENUTZER	LISTE DES UTILISATEURS
-TextBlock	Lbl_UsersList_UserName_Title	OPERATORI		OPERATORE	USER	BENUTZER	UTILISATEUR
-TextBlock	Lbl_UsersList_UserDescription_Title	OPERATORI		REPARTO	DEPARTEMENT	ABTEILUNG	DEPARTEMENT
-TextBlock	lbl_New_Program_Parameters_SetCutting_Title	Nuovo Programma		ESECUZIONE	EXCECUTION	AUSFUHRUNG	EXECUTION
-TextBlock	lbl_Statistics_Error	Statistica		Attenzione: nessun record trovato con i criteri scelti!	Warning: no records found with the chosen criteria!	Achtung: Es wurden keine Datensatze mit den gewählten Kriterien gefunden!	Attention : aucun enregistrement trouvé avec les critères choisis !
-TextBlock	Lbl_SelectTable_Planes_Pause_Title	Nuovo Programma		Intervallo	Iinterval	Intervall	Intervalle
-TextBlock	Lbl_Program_Exist_Planes_Pause_Title	Seleziona Esistente		Intervallo	Iinterval	Intervall	Intervalle
-TextBlock	Lbl_WarningForPile	Nuovo Programma		Nota: la quantita' di fette impostata corrisponde alla singola pigna.	Note: the set quantity of slices corresponds to the single pine cone.	Hinweis: Die eingestellte Scheibenanzahl entspricht dem einzelnen Tannenzapfen.	Remarque: la quantite' de tranches de'finie correspond a' une seule pomme de pin.
-GridView	Album_SetCutting_IconList_Type_Dimension	Nuovo Programma		Scelta per Dimensione	Choice by Size	Auswahl nach Größe	Choix par Taille
-GridView	Album_SetCutting_IconList_Type_Form	Nuovo Programma		Scelta per Forma	Choice by Shape	Auswahl nach Form	Choix par Forme
-GridView	Album_SetCutting_IconList_Type_Arrangment	Nuovo Programma		Scelta per Disposizione	Choice by Arrangment	Wahl nach Vereinbarung	Choix par Arrangement
+Oggetto	Risorsa Stringa	Pannello	Descrizione	it-IT	en-US	de-DE	fr-FR	es-ES	sk-SK
+Button	Btn_Close_Change_Default	Default		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	ZATVORI?
+Button	Btn_Close_PatternForCutting	Pattern		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	ZATVORI?
+Button	Btn_PatternForCutting_StoreFiles	Pattern		ARCHIVIO	ARCHIVE	ARCHIV	ARCHIVE	ARCHIVO	ARCHÍV
+Button	Btn_Connections_Interface_Close	Connection Interface		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	ZATVORI?
+Button	Btn_Exist_Monitor_Close	Exist Monitor		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	ZATVORI?
+Button	Btn_SetCutting_Programs_Monitor_Show	Exist Monitor		MOSTRA MONITOR	SHOW MONITOR	MONITOR ANZEIGEN	AFFICHER LE MONITEUR	VISUALIZAR MONITOR	ZOBRAZENIE MONITORA
+Button	Btn_General_Diagnostic_Close	Diagnostica Generale		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	ZATVORI?
+Button	Btn_LanguageList_Close	Lista Lingue		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	ZATVORI?
+Button	Btn_Maintenance_Close	Manutenzione		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_MessageBox_Exit_App	Spegni Macchina		Esci dalla APP	Exit the APP	Verlasse die APP	Quitter l'APP	Salir de la APP	Ukon?enie APLIKÁCIE
+Button	Btn_MessageBox_No	Spegni Macchina		NO	NO	NEIN	NON	NO	NIE
+Button	Btn_MessageBox_Restart_Yes	Spegni Macchina		Riavvia la macchina	Restart machine	Starten Sie die Maschine neu	Redemarrer la machine	Reiniciar la máquina	Reštartova? zariadenie
+Button	Btn_MessageBox_Yes	Spegni Macchina		Spegni la macchina	Turn Off machine	Maschine ausschalten	Eteindre la machine	Apagar la máquina	Vypnite zariadenie
+Button	Btn_MessageBox_App_Restart	Spegni Macchina		Riavvia l'applicazione	Restart the application	Starten Sie die Anwendung neu	Redemarrez l'application	Reiniciar la aplicación	Reštartujte aplikáciu
+Button	Btn_MotionDiagnostic_ApplyChoices_for_Blade	Motion Diag.		LAMA	BLADE	HOBELMESSER	LAME	LAMA	LAMA
+Button	Btn_MotionDiagnostic_ApplyChoices_for_Carriadge	Motion Diag.		CARRO	CARRIAGE	SCHNEIDEWAGEN	CART	CARRO	CART
+Button	Btn_MotionDiagnostic_ApplyChoices_for_Chain	Motion Diag.		CATENA	CHAIN	KETTE	CHAINE	CADENA	CHAIN
+Button	Btn_MotionDiagnostic_ApplyChoices_for_CuttingCycle	Motion Diag.		CICLO DI TAGLO	CUTTING CYCLE	SCHNEIDZYKLUS	CYCLE DE COUPE	CICLO DE CORTE	CYKLUS REZANIA
+Button	Btn_MotionDiagnostic_ApplyChoices_for_Plate	Motion Diag.		PIATTO	PLATE	FLACHE	PLATE	PLACA	PLATE
+Button	Btn_MotionDiagnostic_ApplyChoices_for_SliceDetacher	Motion Diag.		STACCAFETTA	DETACHER	GETEILTE	PARTAGÉE	CADENA DE CORTE	REZACÍ PÁSIK
+Button	Btn_Product_Master_Data_Cancel	Scelta Prodotto		CANCELLA	CLEAR	CLEAR	ANNULER	BORRAR	DELETE
+Button	Btn_Product_Master_Data_Close	Scelta Prodotto		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_Product_Master_Data_ConfirmChoices	Scelta Prodotto		CONFERMA	CONFIRM	CONFIRM	CONFIRMER	CONFIRMAR	POTVRDI?
+Button	Btn_Product_Master_Data_Edit	Scelta Prodotto		EDITA	EDIT	EDIT	EDIT	EDITAR	UPRAVI?
+Button	Btn_Product_Master_Data_Save	Scelta Prodotto		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	SAVE
+Button	Btn_Save_Change_Default	Default		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	SAVE
+Button	Btn_Save_MotionDiagnostic	Motion Diag.		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_Save_PatternForCutting	Pattern		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	ULOŽI?
+Button	Btn_SelectTable_BladeRPM	Nuovo Programma		GIRI LAMA	BLADE SPEED	KLINGE RPM	VITESSE DE LA LAME	GIROS DE CUCHILLA	OTO?ENIE ?EPELE
+Button	Btn_SelectTable_CarriageSpeed	Nuovo Programma		FETTE / MIN	SLICES / MIN	SCHEIBEN / MIN	TRANCHES / MIN	HOJAS / MIN	LISTY / MIN
+Button	Btn_SelectTable_Parameters_SetCutting_Execute	Principale		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	EXECUTE
+Button	Btn_SelectTable_Pattern	Nuovo Programma		PATTERN	PATTERN	MUSTER	MODÈLE	PATRÓN	PATTERN
+Button	Btn_SelectTable_Product_Master_Data	Nuovo Programma		PRODOTTO	PRODUCT	PRODUKT	PRODUIT	PRODUCTO	PRODUCT
+Button	Btn_SelectTable_SetCutting_Exists	Principale		ESISTENTE	EXISTS	BESTEHENDEN	EXISTANT	EXISTENTE	EXISTUJÚCE
+Button	Btn_SelectTable_SetCutting_New	Principale		NUOVO	NEW	NEW	NOUVEAU	NUEVO	NOVÝ
+Button	Btn_SelectTable_Slices	Nuovo Programma		QUANTITA'	QUANTITY	MENGE	QUANTITE'	CANTIDAD	KVANTITA
+Button	Btn_SelectTable_ThicknessSlices	Nuovo Programma		SPESSORE	THICKNESS	DICKE	EPAISSEUR	GROSOR	H?BKA
+Button	Btn_SelectTable_UserSetup_ChangeDefault	Menu User		DEFAULT	DEFAULT	DEFAULT	DEFAUT	POR DEFECTO	DEFAULT
+Button	Btn_SelectTable_UserSetup_Motion_Verify	Menu User		MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	DIAG. MOVIMIENTO	MOTION DIAG.
+Button	Btn_SelectTable_UserSetup_PatternForCutting	Menu User		PATTERN	PATTERN	MUSTER	MODELE	PATRÓN	PATTERN
+Button	Btn_SelectTable_UserSetup_Setting_Generics	Menu User		GENERALE	GENERAL	GENERAL	GENERAL	GENERAL	VŠEOBECNÉ
+Button	Btn_SelectTable_UserSetup_Settings_Sensors	Menu User		SENSORI	SENSORS	SENSOREN	CAPTEURS	SENSORES	SENZORY
+Button	Btn_SelectTable_UserSetup_User_MasterData	Menu User		OPERATORI	OPERATORS	BETREIBER	OPERATEURS	OPERADORES	OPERÁTORY
+Button	Btn_SelectTable_UserSetup_Diagnostic_Error_Table	Menu User		DIAGNOSTICA	DIAGNOSTICS	DIAGNOSE	DIAGNOSTIC	DIAGNÓSTICO	DIAGNOSTIKA
+Button	Btn_SelectTable_UserSetup_Motion_Verify	Menu User		MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	DIAGNÓSTICO MOV.	DIAGNOSTIKA POHYBU
+Button	Btn_SetCutting_Programs_ConfirmSelection	Seleziona Esistente		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	EXECUTE
+Button	Btn_SetCutting_Programs_Tap_Cancel	Seleziona Esistente		ANNULLA	CANCEL	ZURÜCK	ANNULER	CANCELAR	CANCEL
+Button	Btn_SettingsGenerics_Close	Impostazioni: Generale		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_SettingsSensors_Encoder_Close	Impostazione Sensori		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_SettingsSensors_Encoder_Close1	Info : Versioni		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_SettingsSensors_Potentiometer_Sail_Max_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER	COPIA	KOPÍROVANIE
+Button	Btn_SettingsSensors_Potentiometer_Sail_Min_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER	COPIA	KOPÍROVANIE
+Button	Btn_SettingsSensors_Potentiometer_Sail_Offset_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER	COPIA	COPY
+Button	Btn_SettingsSensors_Potentiometer_Sail_Setup_Store	Impostazione Sensori		SALVA SETUP POTENZIOMETRO	SAVE POTENTIOMETER SETUP	POTENZIOMETEREINSTELLUNGEN SPEICHERN	SAUVEGARDER LA CONFIGURATION DU POTENTIOMÈTRE	GUARDAR AJUSTE POTENCIÓMETRO	ULOŽENIE NASTAVENIA POTENCIOMETRA
+Button	Btn_SettingsSensors_SetHomePosition	Impostazione Sensori		IMPOSTA POSIZIONE DI HOME	SET HOME POSITION	SET HOME POSITION	SET POSITION DE REFERENCE	AJUSTAR POSICIÓN INICIAL	NASTAVENIE VÝCHODISKOVEJ POLOHY
+Button	Btn_Statistics_Close	Statistics		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_Maintenance_Washing	Manutenzione		LAVAGGIO	WASHING	WASHEN	LAVAGE	LAVAR	WASH
+Button	Btn_Maintenance_Washing_Stop	Manutenzione		ARRESTA	STOP	STOPPEN	STOP	PARAR	STOP
+Button	Btn_SelectTable_Program_InvoqueArchive	Archivio		ARCHIVIO	ARCHIVE	ARCHIV	ARCHIVE	ARCHIVAR	ARCHÍV
+Button	Btn_SetCutting_StoringFile_Close	Archivio		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_SetCutting_StoringFile_Save	Archivio		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	ULOŽI?
+Button	Btn_UsersList_Next	OPERATORI		PROSEGUI	CONTINUE	WEITERMACHEN	CONTINUER	CONTINUAR	POKRA?OVA?
+Button	Btn_SelectTable_Planes	Nuovo Programma		RIPETIZIONE STRATI	REPETITION STRETCHES	WIEDERHOLUNG DehnUbungen	ETIREMENTS DE REPETITION	REPETIR CAPAS	OPAKOVA? VRSTVY
+Button	Btn_SelectTable_Parameters_SetCutting_Pause	Nuovo Programma		PAUSA	PAUSE	BRECHEN	PAUSE	PAUSA	PAUZA
+Button	Btn_New_Program_Parameters_SetCutting_Close	Nuovo Programma		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_Maintenance_Start	Manutenzione		AVVIA	START	START	COMMENCER	INICIAR	START
+Button	Btn_Statistic_Executes	Statistics		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	SPUSTI?
+Button	Btn_Statistics_DeleteStatistic_CuttingHystory	Statistics		CANCELLA REGISTRO TAGLI	DELETE CUTTING REGISTER	SCHNITTREGISTER LOSCHEN	SUPPRIMER LE REGISTRE DE COUPE	BORRAR REGISTRO DE CORTE	DELETE CUT LOG
+Button	Btn_Statistics_DeleteStatistic_MachineHystory	Statistics		CANCELLA ORE MACCHINA	CLEAR MACHINE HOURS	MASCHINENSTUNDEN LOSCHEN	EFFACER LES HEURES DE LA MACHINE	BORRAR HORAS MÁQUINA	VYMAZA? HODINY STROJA
+Button	Btn_SettingsGenerics_DateTime_Save	Impostazioni: Generale		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	SAVE
+Button	Btn_User_Master_Data_Close	Gestione Operatori		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+Button	Btn_SettingsSensors_SetHomePosition_PowerOffCoil	Impostazione Sensori		DISATTIVA MAGNETE	DISABLE MAGNET	MAGNET DEAKTIVIEREN	DESACTIVER L'AIMANT	DESACTIVAR IMÁN	DEAKTIVOVA? MAGNET
+Button	Btn_SettingsSensors_SetHomePosition_Cancel	Impostazione Sensori		CANCELLA	CLEAR	CLEAR	ANNULER	BORRAR	ODSTRÁNI?
+Button	Btn_SettingsSensors_SetHomePosition	Impostazione Sensori		SALVA POSIZIONE DI HOME	SAVE HOME POSITION	HOMEPOSITION SPEICHERN	ENREGISTRER LA POSITION D'ORIGINE	GUARDAR POSICIÓN INICIAL	ULOŽI? DOMOVSKÚ POLOHU
+Button	Btn_SettingsSensors_SetPowerInit	Impostazione Sensori		SALVA TARATURA MAGNETE	SAVE MAGNET CALIBRATION	MAGNETKALIBRIERUNG SPEICHERN	ENREGISTRER LE CALIBRAGE DE L'AIMANT	GUARDAR CALIBRACIÓN DEL IMÁN	ULOŽI? KALIBRÁCIU MAGNETU
+Button	Btn_SettingsCuttingAreaLimit_Save	Impostazione Sensori		SALVA MISURE AREA DI TAGLIO	SAVE CUTTING AREA MEASUREMENTS	SPEICHERN SIE SCHNITTFLACHENMESSUNGEN	ENREGISTRER LES MESURES DE LA ZONE DE COUPE	GUARDAR MEDIDAS DE LA ZONA DE CORTE	ULOŽI? MERANIA REZNEJ PLOCHY
+Button	Btn_Settings_Chain_LenghBladeAndTrow_Save	Impostazione Sensori		SALVA AVANZ. VEL. / RAPP.	SAVE ADVANCE. VEL. / RAP.	VORAUS SPEICHERN. VEL. / RAP.	ECONOMISEZ A L'AVANCE. VEL. / RAP.	GUARDAR AVANC. VELOCIDAD/REP.	SAVE ADVANC. SPEED/REP.
+Button	Btn_SettingsRatioBlade_Save	Impostazione Sensori		SALVA RAPPORTO RIDUZIONE	SAVE REDUCTION RATIO	UNTERSETZUNGSVERHALTNIS SPEICHERN	SAUVER LE TAUX DE REDUCTION	GUARDAR RATIO DE REDUCCIÓN	ULOŽI? REDUK?NÝ POMER
+Button	Btn_Diagnostic_Errors_Edit	Diagnostica Errori		EDITA	EDIT	EDIT	EDIT	EDITAR	EDIT
+Button	Btn_Diagnostic_Errors_Save	Diagnostica Errori		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	SAVE
+Button	Btn_Diagnostic_Errors_Cancel	Diagnostica Errori		CANCELLA	CLEAR	CLEAR	ANNULER	BORRAR	DELETE
+Button	Btn_Diagnostic_Errors_Close	Diagnostica Errori		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+ButtonSpec	Btn_Close_Save_Selections	Principale		SPEGNI LA MACCHINA	POWER OFF MACHINE	MASCHINE AUSSCHALTEN	ETEINDRE LA MACHINE	APAGAR	VYPNÚ?
+GlobalVar	ButtonText_Close	Variabili Globali		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	CLOSE
+GlobalVar	ButtonText_Continue	Variabili Globali		CONTINUA	CONITNUE	WEITER	CONTINUER	CONTINUAR	POKRA?OVA?
+GlobalVar	ButtonText_CuttingSetting	Variabili Globali		IMPOSTA TAGLIO	SET CUT	STELLEN SIE DEN SCHNITT EIN	DEFINIR LA COUPE	FIJAR CORTE	SET CUT
+GlobalVar	ButtonText_CuttingsParameters	Variabili Globali		PARAMETRI DI TAGLIO	CUTTING PARAMETERS	SCHNEIDPARAMETER	PARAMETRES DE COUPE	PARÁMETROS DE CORTE	PARAMETRE REZANIA
+GlobalVar	ButtonText_Ends	Variabili Globali		TERMINA	ENDS	ENDEN	EXTREMITES	FINALIZAR	KONIEC
+GlobalVar	ButtonText_Run	Variabili Globali		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	RUN
+GlobalVar	ButtonText_Pause	Variabili Globali		PAUSA	PAUSE	BRECHEN	PAUSE	PAUSA	PAUSE
+GlobalVar	ButtonText_Save	Variabili Globali		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	SAVE
+GlobalVar	ButtonText_ShutDownMachine	Variabili Globali		SPEGNI LA MACCHINA	TURN OFF THE MACHINE	MASCHINE AUSSCHALTEN	ETEINDRE LA MACHINE	APAGAR	VYPNUTIE NAPÁJANIA
+GlobalVar	ButtonText_UserSetup	Variabili Globali		SETUP	SETUP	SETUP	CONFIGURATION	CONFIGURAR	SETUP
+GlobalVar	ButtonText_User	Variabili Globali		Operatore	User	Benutzer	Utilisateur	Operador	Operátor
+GlobalVar	ButtonText_Department	Variabili Globali		Reparto	Departement	Abteilung	Departement	Departamento	Oddelenie
+GlobalVar	GlobalVar_CheckBoxText_PatternOptionExpand	Variabili Globali		ESPANDE	EXPAND	ERWEITERT	EXPLEND	AMPLIAR	EXPAND
+GlobalVar	GlobalVar_CheckBoxText_PatternOptionCompress	Variabili Globali		COMPRIME	COMPRESS	KOMPRIMIERT	COMPRIME	COMPRIME	COMPRIME
+GlobalVar	ButtonText_ProductName	Variabili Globali		Nome	Name	Name	Nom	Nombre	Názov
+GlobalVar	ButtonText_ProductDescription	Variabili Globali		Descrizione	Description	Beshreibung	Description	Descripción	Popis
+GlobalVar	GlobalVar_Message_EndCycleInAdvance	Variabili Globali		Richiesta di arresto anticipato: attendere qualche istante.	Early stop request: Wait a few moments.	Bitte um vorzeitiges Stoppen: Warten Sie einen Moment.	Demande d'arre't anticipe': attendez quelques instants.	Solicitud de apagado anticipado: espere unos instantes.	Žiados? o pred?asné vypnutie: po?kajte nieko?ko okamihov.
+GlobalVar	GlobalVar_Message_InitInProgress	Variabili Globali		Inizializzazione in corso: attendere qualche istante	Initializing: wait a few moments	Initialisierung: Warten Sie einen Moment	Initialisation: attendez quelques instants	Inicialización en curso: espere unos instantes	Prebieha inicializácia: po?kajte nieko?ko okamihov
+GlobalVar	GlobalVar_Message_PointWriting	Variabili Globali		Scrittura del punto	Writing the point	Den Punkt aufschreiben	E'crire le point	Punto de escritura	Bod zápisu
+GlobalVar	GlobalVar_Message_StepsForEncoderPulse	Variabili Globali		passi per ogni impulso encoder carro	steps for each wagon encoder pulse	Schritte für jeden Wagen-Encoder-Impuls	etapes pour chaque impulsion d'encodeur de wagon	pasos para cada impulso del codificador del carro	kroky pre každý impulz sníma?a vozíka
+GlobalVar	GlobalVar_Message_Statistic_Error	Variabili Globali		Attenzione: nessun record trovato con i criteri scelti!	Warning: no records found with the chosen criteria!	Achtung: Es wurden keine Datensätze mit den gewählten Kriterien gefunden!	Attention : aucun enregistrement trouvé avec les criteres choisis!	Atención: ¡no se ha encontrado ningún registro con los criterios elegidos!	Pozor: Nenašiel sa žiadny záznam so zvolenými kritériami!
+GlobalVar	GlobalVar_Message_Statistic_MachineHoursOperation	Variabili Globali		Ore totali macchina: Accensione / Lavoro	Total machine hours: Startup / Work	Gesamtstunden der Maschine: Inbetriebnahme / Arbeit	Heures totales machine: Demarrage / Travail	Total horas máquina: Encendido / Trabajo	Celkový po?et hodín stroja: Zapnutie / práca
+GlobalVar	PanelText_MachineStopping	Variabili Globali		Macchina in arresto, attendere...	Machine stopped, wait...	Maschinen stehen still, bitte warten...	Machines arretees, veuillez patienter…	Máquina parada, por favor espere...	Stroj sa zastavil, po?kajte, prosím...
+GlobalVar	PanelText_MachineRestart	Variabili Globali		Macchina in riavvio, attendere...	Machine restarting, please wait...	Maschine wird neu gestartet, bitte warten...	Redemarrage de la machine, veuillez patienter...	Máquina reiniciando, por favor espere...	Opätovné spustenie stroja, po?kajte, prosím...
+GlobalVar	PanelText_AppRestart	Variabili Globali		Applicazione in riavvio, attendere...	Application restarting, please wait...	Anwendung wird neu gestartet, bitte warten...	Redemarrage de l'application, veuillez patienter...	Aplicación reiniciando, por favor espere...	Reštartovanie aplikácie, po?kajte, prosím...
+GlobalVar	GlobalVar_CHAIN	Variabili Globali		CATENA	CHAIN	KETTE	CHAINE	CADENA	CHAIN
+GlobalVar	GlobalVar_PLATE	Variabili Globali		PIATTO	PLATE	PLATTE	PLAQUE	PLACA	PLATE
+GridView	Album_SetCutting_IconList_Type_Dimension	Nuovo Programma		Scelta per Dimensione	Choice by Size	Auswahl nach Größe	Choix par Taille	Ordenar por tamaño	Zoradi? pod?a ve?kosti
+GridView	Album_SetCutting_IconList_Type_Form	Nuovo Programma		Scelta per Forma	Choice by Shape	Auswahl nach Form	Choix par Forme	Ordenar por forma	Zoradi? pod?a tvaru
+GridView	Album_SetCutting_IconList_Type_Arrangment	Nuovo Programma		Scelta per Disposizione	Choice by Arrangment	Wahl nach Vereinbarung	Choix par Arrangement	Elegir por Arreglo	Výber pod?a usporiadania
+ListView	Album_PatterForCutting_IconList_Arrangment	Pattern		  Lista Disposizione assegnabili al Pattern	Layout list assignable to the Pattern	Layoutliste, die dem Pattern zugewiesen werden kann	Liste de mise en page assignable au motif	  Lista de disposiciones asignables al modelo	  Zoznam usporiadaní priradite?ných k vzoru
+ListView	Album_PatterForCutting_IconList_Dimension	Pattern		  Lista Dimensioni assegnabili al Pattern	List of dimensions assignable to the Pattern	Liste der Dimensionen, die dem Muster zugewiesen werden können	Liste des dimensions assignables au motif	  Lista de tallas asignables al modelo	  Zoznam ve?kostí priradite?ných k vzoru
+ListView	Album_PatterForCutting_IconList_Form	Pattern		  Lista Forme assegnabili al Pattern	List of Forms that can be assigned to the Pattern	Liste der Formulare, die dem Muster zugewiesen werden können	Liste des formulaires pouvant être affectés au motif	  Lista de formas asignables al modelo	  Zoznam tvarov priradite?ných k vzoru
+TextBlock	Lbl_ChangDefault_Saving	Default		ATTENDERE QUALCHE ISTANTE: SALVATAGGIO DEI PARAMETRI DI DEFAULT IN CORSO	WAIT SOME INSTANT: SAVING DEFAULT PARAMETERS IN PROGRESS	WARTEN SIE EINEN SOFORT: SPEICHERN DER STANDARDPARAMETER IM LAUFEN	ATTENDRE QUELQUE INSTANT: SAUVEGARDE DES PARAMÈTRES PAR DÉFAUT EN COURS	ESPERE UNOS INSTANTES: GUARDADO DE PARÁMETROS POR DEFECTO EN CURSO	PO?KAJTE CHVÍ?U: PREBIEHA UKLADANIE PREDVOLENÝCH PARAMETROV
+TextBlock	lbl_ChangeDefault_Range_ArrangementSlices_Title	Default		DISPOSIZIONE FETTE	SLICING ARRANGEMENT	SLICING-ANORDNUNG	AGENCEMENT DE TRANCHES	DISPOSICIÓN DE LAS RODAJAS	USPORIADANIE PLÁTKOV
+TextBlock	lbl_ChangeDefault_Range_BladeRPM_Title	Default		GIRI LAMA	BLADE TURNS	KLINGE DREHT	TOURS DE LAME	GIROS DE LA CUCHILLA	OBRÁCANIE ?EPELÍ
+TextBlock	lbl_ChangeDefault_Range_CarriageSpan_Title	Default		CORSA CARRO	CARRIAGE SPACE	WAGENPLATZ	ESPACE DE TRANSPORT	RECORRIDO DEL CARRO	PREVÁDZKA BEŽÍ
+TextBlock	lbl_ChangeDefault_Range_CarriageSpeed_Title	Default		VELOCITA' CARRO	CARRIAGE SPEED	WAGENGESCHWINDIGKEIT	WAGON SPEED	VELOCIDAD DEL CARRO	RÝCHLOS? PREVÁDZKY
+TextBlock	lbl_ChangeDefault_Range_ProductSize_Title	Default		X, Y COFFICIENTE	X, Y COEFFICIENT	X, Y FACTOR	X, Y FACTEUR	COEFICIENTE X, Y	KOEFICIENT X, Y
+TextBlock	lbl_ChangeDefault_Range_Slices_Title	Default		NUMERO FETTE	NUMBER OF SLICES	ANZAHL SCHEIBEN	NOMBRE DE TRANCHES	NÚMERO DE HOJA	?ÍSLO PLECHU
+TextBlock	lbl_ChangeDefault_Range_ThicknessSlices_Title	Default		SPESSORE FETTE	THICKNESS OF SLICES	SCHEIBENDICKE	EPAISSEUR DE TRANCHES	ESPESOR CHAPA	HRÚBKA PLECHU
+TextBlock	lbl_ChangeDefault_RAnge_Titles_Increment	Default		INCREMENTO	INCREASE	ERHÖHEN,	AUGMENTATION	INCREMENTO	PRÍSLUŠENSTVO
+TextBlock	lbl_ChangeDefault_Range_Titles_Max	Default		MASSIMO	MAXIMUM	MAXIMUM	MAXIMUM	MÁXIMO	MAXIMUM
+TextBlock	lbl_ChangeDefault_Range_Titles_Min	Default		MINIMO	MINIMUM	MINIMUM	MINIMUM	MÍNIMO	MINIMUM
+TextBlock	lbl_ChangeDefault_Range_Titles_Preference	Default		PREFERENZA	PREFERENCE	BEVORZUGEN	PREFERENCE	PREFERENCIA	PREFERENCIA
+TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Enable	Default		ABILITA	ENABLE	ENABLE	PERMETTRE	HABILIDAD	ABILITY
+TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Label	Default		ETICHETTA	LABEL	ETIKETTIEREN	ETIQUETTE	ETIQUETA	LABEL
+TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Ok	Default		OK	OK	OK	OK	OK	OK
+TextBlock	lbl_ChangeDefault_Range_Titles_Tag_Tag	Default		TAG	TAG	TAG	TAG	ETIQUETA	TAG
+TextBlock	lbl_ChangeDefault_Title	Default		EDITORE DI   PARAMETRI  /  INTERVALLI   PREDEFINITI	EDITOR OF PARAMETERS / DEFAULT INTERVALS	HERAUSGEBER VON PARAMETERN / STANDARDINTERVALLEN	EDITEUR DES PARAMETRES / INTERVALLES PAR DEFAUT	EDITOR DE PARÁMETROS / RANGOS PREDEFINIDOS	EDITOR PARAMETROV / PREDDEFINOVANÉ ROZSAHY
+TextBlock	Lbl_Connections_Interface_Coonection_Result	Connection Interface		IMPOSSIBILE INDIVIDUARE RETI	UNABLE TO IDENTIFY NETWORKS	NETZWERKE KÖNNEN NICHT IDENTIFIZIERT WERDEN	IMPOSSIBLE D'IDENTIFIER LES RÉSEAUX	NO SE PUEDE LOCALIZAR LA RED	NIE JE MOŽNÉ VYH?ADA? SIE?
+TextBlock	Lbl_Connections_Interface_Coonection_Title	Connection Interface		RICERCA RETE IN CORSO	NETWORK SEARCH IN PROGRESS	NETZWERKSUCHE IN BEARBEITUNG	RECHERCHE EN RESEAU EN COURS	BÚSQUEDA DE REDES EN CURSO	PREBIEHA VYH?ADÁVANIE SIETE
+TextBlock	Lbl_Connections_Interface_Coonection_Try_Title	Connection Interface		TENTATIVO #	ATTEMPT #	VERSUCH #	TENTATIVE #	TENTATIVO	PREDBEŽNÉ #
+TextBlock	lbl_Connections_Interface_Title	Connection Interface		INTERFACCE DI CONNESSIONE ALLA RETE	NETWORK CONNECTION INTERFACES	NETZWERKANSCHLUSS-SCHNITTSTELLEN	INTERFACES DE CONNEXION RESEAU	INTERFACES DE CONEXIÓN DE RED	ROZHRANIA SIE?OVÉHO PRIPOJENIA
+TextBlock	lbl_Exist_Monitor_Title	Exist Monitor		PROGRAMMA SELEZIONATO IN ESECUZIONE	PROGRAM SELECTED IN EXECUTION	PROGRAMM IN AUSFÜHRUNG AUSGEWÄHLT	PROGRAMME SELECTIONNE EN EXECUTION	PROGRAMA SELECCIONADO EN EJECUCIÓN	VYBRANÝ SPUSTENÝ PROGRAM
+TextBlock	Lbl_General_Diagnostic_GenericStates_BladeActivity_Title	Diagnostica Generale		Lama	Blade	Hobelmesser	Lame	Cuchilla	Blade
+TextBlock	Lbl_General_Diagnostic_GenericStates_CarriageActivity_Title	Diagnostica Generale		Carro	Carriage	Schneidewagen	CART	Carro	Chariot
+TextBlock	Lbl_General_Diagnostic_GenericStates_ChainActivity_Title	Diagnostica Generale		Catena	Chain	Kette	ChaIne	Cadena	Re?az
+TextBlock	Lbl_General_Diagnostic_GenericStates_Title	Diagnostica Generale		STATI GENERICI	GENERIC STATES	ALLGEMEINE STAATEN	ETATS GENERIQUES	ESTADO GENERAL	VŠEOBECNÝ STAV
+TextBlock	Lbl_General_Diagnostic_Microswitch_AutoMan_Title	Diagnostica Generale		Automatico / Manuale :	Automatic / Manual :	Automatisch / Manuell :	Automatique / Manuel: :	Automático / Manual :	Automatické / manuálne :
+TextBlock	Lbl_General_Diagnostic_Microswitch_Carriage_Title	Diagnostica Generale		Carro in Home :	Carrage in Home :	Warenkorb in Hom :	Panier dans Hom :	Carro en Casa :	Vozidlo v Home :
+TextBlock	Lbl_General_Diagnostic_Microswitch_PlateHome_Title	Diagnostica Generale		Piatto in Home :	Plate in Home :	Gericht zu Hause :	Plat dans Hom :	Placa en casa :	Doska v domácnosti :
+TextBlock	Lbl_General_Diagnostic_Microswitch_PlateOpen_Title	Diagnostica Generale		Piatto tutto Aperto :	Plate All Open :	Offene Platte :	Plaque ouverte :	Plato todo abierto :	Všetky dosky otvorené :
+TextBlock	Lbl_General_Diagnostic_MicroSwitch_Title	Diagnostica Generale		MICRO INTERRUTTORI	MICRO SWITCHES	MIKROSCHALTER	MICRO COMMUTATEURS	MICRO INTERRUPTORES	MIKROSPÍNA?E
+TextBlock	Lbl_General_Diagnostic_Sensor_Carriage_Title	Diagnostica Generale		Posizione Carro :	Carriage Position :	Position Einkaufswagen:	Panier de Position:	Posición Carro :	Poloha vozíka :
+TextBlock	Lbl_General_Diagnostic_Sensor_Chain_Title	Diagnostica Generale		Posizione Catena :	Chain Position :	Kette Position:	Position de la Chaine:	Posición Cadena :	Poloha re?aze :
+TextBlock	Lbl_General_Diagnostic_Sensor_Encoder_Title	Diagnostica Generale		Posizione Staccafetta :	Detacher Position :	Geteilte Position:	Position Partagee:	Posición desacoplamiento :	Poloha odpojenia :
+TextBlock	Lbl_General_Diagnostic_Sensor_Plate_Title	Diagnostica Generale		Posizione Piatto :	Plate Position :	Flache Position:	Position a Plat:	Posición del plato :	Poloha dosky :
+TextBlock	Lbl_General_Diagnostic_Sensor_Sail_Title	Diagnostica Generale		Apertura Vela :	Sail Opening :	Segel Eröffnung	Ouverture de la Voile	Apertura de la vela :	Otvorenie plachty :
+TextBlock	Lbl_General_Diagnostic_Sensor_Title	Diagnostica Generale		SENSORI	SENSORS	SENSOREN	CAPTEURS	SENSORES	SENZORY
+TextBlock	lbl_General_Diagnostic_Title	Diagnostica Generale		DIAGNOSTICA GENERALE	GENERAL DIAGNOSTICS	ALLGEMEINE DIAGNOSE	DIAGNOSTIC GENERAL	DIAGNÓSTICO GENERAL	VŠEOBECNÁ DIAGNOSTIKA
+TextBlock	lbl_Info_Fw_Version_Node_0_Title	Info : Versioni		VERSIONE FW @ NODO 0 (STEPPERS DRIVERS)	VERSIONS FW @ NODE 0 (STEPPERS DRIVERS)	VERSIONS FW @ KNOT 0 (STEPPERS DRIVERS)	VERSIONS FW @ NOEUD 0 (STEPPERS DRIVERS)	VERSIÓN FW @ NODO 0 (DRIVERS STEPPERS)	VERZIA FW @ UZOL 0 (OVLÁDA?E KROKOVÝCH OVLÁDA?OV)
+TextBlock	lbl_Info_Fw_Version_Node_1_Title	Info : Versioni		VERSIONE / RELEASE FW @ NODO 1 (HV DRIVERS)	VERSIONS / RELEASE FW @ NODE 1 (HV DRIVERS)	VERSIONS / RELEASE FW @ KNOT 1 (HV DRIVERS)	VERSIONS / RELEASE FW @ NOEUD 1 (HV DRIVERS)	VERSIÓN / RELEASE FW @ NODO 1 (DRIVERS HV)	VERZIA / UVO?NENIE FW @ UZOL 1 (OVLÁDA?E HV)
+TextBlock	lbl_Info_Fw_Version_Title	Info : Versioni		FIRMWARE	FIRMWARE	FIRMWARE	FIRMWARE	FIRMWARE	FIRMWARE
+TextBlock	lbl_Info_Hw_Version_Title	Info : Versioni		VERSIONE CPU	CPU VERSION	CPU VERSION	VERSION DU PROCESSEUR	VERSION CPU	VERZIA CPU
+TextBlock	lbl_Info_Hw_Title	Info : Versioni		HARDWARE	HARDWARE	HARDWARE	HARDWARE	HARDWARE	HARDWARE
+TextBlock	lbl_Info_Hw_Revision_Title	Info : Versioni		DATA CPU	CPU DATE	CPU DATEN	LA DATE DU PROCESSEUR	DATOS CPU	DÁTA CPU
+TextBlock	lbl_Info_Hw_Build_Title	Info : Versioni		VERSIONE POTENZA	POWER VERSION	POWER VERSION	VERSION PUISSANTE	VERSIÓN DE POTENCIA	VERZIA NAPÁJANIA
+TextBlock	lbl_Info_Hw_Date_Release_Title	Info : Versioni		DATA POTENZA	POWER DATE	DATENPOWER	LA DATE DU PUISSANTE	DATOS DE POTENCIA	ÚDAJE O NAPÁJENÍ
+TextBlock	lbl_Info_Sw_Build_Title	Info : Versioni		BUILD	BUILD	BUILD	BUILD	CONSTRUIR	BUILD
+TextBlock	lbl_Info_Sw_Date_Release_Node_0_Title	Info : Versioni		DATA RELEASE @ NODO 0	DATE RELEASE @ NODE 0	DATE RELEASE @ KNOT 0	DATE RELEASE @ NOEUD 0	LIBERACIÓN DE DATOS @ NODO 0	UVO?NENIE ÚDAJOV @ UZOL 0
+TextBlock	lbl_Info_Sw_Date_Release_Node_1_Title	Info : Versioni		DATA RELEASE @ NODO 1	DATE RELEASE @ NODE 1	DATE RELEASE @ KNOT 1	DATE RELEASE @ NOEUD 1	LIBERACIÓN DE DATOS @ NODO 1	UVO?NENIE ÚDAJOV @ UZOL 1
+TextBlock	lbl_Info_Sw_Date_Release_Title	Info : Versioni		DATA RELEASE	DATE RELEASE	DATUM RELEASE	DATE RELEASE	LIBERACIÓN DE DATOS	VYDANIE ÚDAJOV
+TextBlock	lbl_Info_Sw_Revision_Title	Info : Versioni		REVISIONE	REVISION	REVIEW	EXAMEN	REVISIÓN	REVIEW
+TextBlock	lbl_Info_Sw_Title	Info : Versioni		SOFTWARE	SOFTWARE	SOFTWARE	SOFTWARE	SOFTWARE	SOFTWARE
+TextBlock	lbl_Info_Sw_Version_Title	Info : Versioni		VERSIONE	VERSION	VERSIONEN	VERSIONS	VERSION	VERZIA
+TextBlock	Lbl_LanguageList	Lista Lingue		LISTA LINGUE	LANGUAGE LIST	SPRACHLISTE	LISTE DE LANGUE	LISTA DE IDIOMAS	ZOZNAM JAZYKOV
+TextBlock	lbl_Maintenance_Title	Manutenzione		MANUTENZIONE E PULIZIA	MAINTENANCE AND CLEANING	WARTUNG UND REINIGUNG	ENTRETIEN ET NETTOYAGE	MANTENIMIENTO Y LIMPIEZA	ÚDRŽBA A ?ISTENIE
+TextBlock	lbl_MotionDiagnostic_ApplyChoices_Titles	Motion Diag.		APPLICA SCELTE A:	APPLY CHOICES A:	WENDEN SIE WAHLEN AN A:	APPLIQUER LES CHOIX A:	APLICAR OPCIONES A:	POUŽITE VO?BY NA:
+TextBlock	lbl_MotionDiagnostic_Following_Titles	Motion Diag.		INSEGUIMENTO CICLO Attivo / Disattivo	TRACKING CYCLE Active / Inactive	TRACKING CYCLE Aktiv / Inaktiv	CYCLE DE SUIVI Actif / Inactif	SEGUIMIENTO DE CICLO Activo / Inactivo	Aktívne / neaktívne
+TextBlock	lbl_MotionDiagnostic_Kill_Titles	Motion Diag.		KILL	KILL	KILL	KILL	KILL	KILL
+TextBlock	lbl_MotionDiagnostic_Quantity_Titles	Motion Diag.		QNT	QNT	QNT	MENGE	QNT	QNT
+TextBlock	lbl_MotionDiagnostic_Range_Blade_Title	Motion Diag.		LAMA	BLADE	HOBELMESSER	LAME	HOJA	BLADE
+TextBlock	lbl_MotionDiagnostic_Range_Carriadge_Title	Motion Diag.		CARRO	CARRIAGE	SCHNEIDEWAGEN	CART	CARRO	CART
+TextBlock	lbl_MotionDiagnostic_Range_Chain_Title	Motion Diag.		CATENA	CHAIN	KETTE	CHAÎNE	CADENA	CHAIN
+TextBlock	lbl_MotionDiagnostic_Range_CuttingCycle_Title	Motion Diag.		CICLO DI TAGLIO	CUTTING CYCLE	SCHNEIDZYKLUS	CYCLE DE COUPE	CICLO DE CORTE	CYKLUS REZANIA
+TextBlock	lbl_MotionDiagnostic_Range_Plate_Title	Motion Diag.		PIATTO	PLATE	FLACHE	PLATE	PLACA	PLECH
+TextBlock	lbl_MotionDiagnostic_Range_SliceDetacher_Title	Motion Diag.		STACCAFETTA	DETACHER	GETEILTE	PARTAGEE	CICLO DE CORTE	CYKLUS REZANIA
+TextBlock	lbl_MotionDiagnostic_Speed_Titles	Motion Diag.		VELOCITA' UP / DOWN	SPEED UP / DOWN	GESCHWINDIGKEIT UP / DOWN	VITESSE HAUT / BAS	VELOCIDAD ARRIBA / ABAJO	RÝCHLOS? NAHOR / NADOL
+TextBlock	lbl_MotionDiagnostic_Start_Titles	Motion Diag.		AVVIO	START	START	DEMARRAGE	ARRANQUE	START
+TextBlock	lbl_MotionDiagnostic_Stop_Titles	Motion Diag.		ARRESTO	STOP	STOPP	ARRET	PARADA	STOP
+TextBlock	lbl_MotionDiagnostic_Title	Motion Diag.		MOVIMENTAZIONE: DIAGNOSTICA	MOVEMENTATION: DIAGNOSTIC	HANDHABUNG: DIAGNOSE	MANIPULATION: DIAGNOSTIC	MANIPULACIÓN: DIAGNÓSTICO	MANIPULÁCIA: DIAGNOSTIKA
+TextBlock	Lbl_PassordKeyboard_Digit_Container_Title	Password		PASSWORD	PASSWORD	PASSWORT	MOT DE PASSE	CONTRASEÑA	HESLO
+TextBlock	Lbl_PatternForCutting_Range_ProfileRule_Title	Pattern		REGOLA DEL PROFILO	PROFILE RULE	PROFILREGEL	REGLE DE PROFIL	REGLA PERFIL	PRAVIDLO PROFILU
+TextBlock	lbl_PatternForCutting_FileStored_Title	Pattern		LISTA ESISTENTI	EXISTING LIST	BESTEHENDE LISTE	LISTE EXISTANTE	LISTA EXISTENTE	EXISTUJÚCI ZOZNAM
+TextBlock	lbl_PatternForCutting_FileToStore_Title	Pattern		SALVA NUOVO	SAVE NEW	NEU SPEICHERN	SAUVEZ NOUVEAU	GUARDAR NUEVO	ULOŽI? NOVÝ
+TextBlock	lbl_PatternForCutting_Plate_Arrangment_Area_Title	Pattern		DIMENSIONE UTILE	USEFUL DIMENSION	NÜTZLICHE ABMESSUNGEN	DIMENSION UTILE	DIMENSIÓN ÚTIL	UŽITO?NÝ ROZMER
+TextBlock	lbl_PatternForCutting_Plate_Dimension_Title	Pattern		DIMENSIONE PIATTO	PLATE DIMENSION	FLACHE ABMESSUNG	DIMENSION PLAT	TAMAÑO DEL PLATO	VE?KOS? NÁDOBY
+TextBlock	lbl_PatternForCutting_Plate_Item_Dimension_Title	Pattern		DIMENSIONE OGGETTO	OBJECT DIMENSION	GRÖSSE DES OBJEKTS	TAILLE DU SUJET	TAMAÑO DEL OBJETO	VE?KOS? OBJEKTU
+TextBlock	lbl_PatternForCutting_Plate_Item_Numbers_Title	Pattern		NUMERO OGGETTI	NUMBER OF OBJECTS	ANZAHL DER OBJEKTE	NOMBRE D'OBJETS	NÚMERO DE OBJETO	?ÍSLO OBJEKTU
+TextBlock	lbl_PatternForCutting_Plate_Layout_Area_Offset_Title	Pattern		OFFSET  DIMENSIONE UTILE	OFFSET USEFUL DIMENSION	OFFSET NÜTZLICHE ABMESSUNG	DIMENSION UTILE OFFSET	DIMENSIÓN ÚTIL OFFSET	POSUNUTIE UŽITO?NÉHO ROZMERU
+TextBlock	lbl_PatternForCutting_Plate_Shape_Title	Pattern		ASSEGNA ICONE	ASSIGN ICONS	ICON ZUWEISUNG	AFFECTATION D'ICONE	ASIGNAR ICONOS	PRIRADI? ICONS
+TextBlock	lbl_PatternForCutting_Plate_ShapeAssegned_Title	Pattern		ICONE ASSEGNATE	ICONS ASSIGNED	ICONS DIE ZUGEWIESEN SIND	ICONS, DIE ZUGEWIESEN SIND	ICONOS ASIGNADOS	PRIRADENÉ ICONS
+TextBlock	lbl_PatternForCutting_PlateDimension_Titles_X	Pattern		NOME DEL PATTERN	PATTERN'S NAME	NAME DES MUSTERS	NOM DU MOTIF	NOMBRE DEL PATRÓN	NÁZOV VZORU
+TextBlock	lbl_PatternForCutting_Title	Pattern		EDITOR PATTERN : MODELLI DI TAGLIO	EDITOR PATTERN: CUTTING MODELS	EDITOR-MUSTER: MODELLE SCHNEIDEN	MOTIF DE L'EDITEUR: MODELES DE COUPE	EDITOR DE PATRONES : PATRONES DE CORTE	EDITOR VZOROV : REZANIE VZOROV
+TextBlock	TBox_PatternForCutting_OffsetPoint_Title	Pattern		VALORI DI OFFSET	OFFSET VALUES	OFFSET-WERTE	VALEURS DE DECALAGE	VALORES DE OFFSET	HODNOTY OFFSETU
+TextBlock	TBox_PatternForCutting_OffsetPoint_LayoutCutting_Title	Pattern		AREA DI TAGLIO	CUTTING AREA	SCHNITTBEREICH	ZONE DE COUPE	ÁREA DE CORTE	OBLAS? REZANIA
+TextBlock	TBox_PatternForCutting_OffsetPoint_Point_Title	Pattern		PUNTO	POINT	PUNKT	POINTE	PUNTO	BOD
+TextBlock	Lbl_Product_Master_Data_DescriptionExists_Title	Scelta Prodotto		Descrizione	Description	Beshreibung	Description	Descripción	Popis
+TextBlock	Lbl_Product_Master_Data_DescriptionNewName_Title	Scelta Prodotto		Descrizione	Description	Beshreibung	Description	Descripción	Popis
+TextBlock	lbl_Product_Master_Data_New_Title	Scelta Prodotto		NUOVO	NEW	NEW	NOUVEAU	NUEVO	NOVINKA
+TextBlock	Lbl_Product_Master_Data_NewName_Title	Scelta Prodotto		Nome	Name	Name	Nom	Nombre	Názov
+TextBlock	Lbl_Product_Master_Data_SelectExists_Title	Scelta Prodotto		Nome	Name	Name	Nom	Nombre	Názov
+TextBlock	lbl_Product_Master_Data_Selection_Title	Scelta Prodotto		SELEZIONE	SELECTION	AUSWAHL	SELECTION	SELECCIÓN	SELECTION
+TextBlock	lbl_Product_Master_Data_Title	Scelta Prodotto		PRODOTTI: SELEZIONE / NUOVO	PRODUCTS: SELECTION / NEW	PRODUKTE: AUSWAHL / NEU	PRODUIT: SELECTION / NOUVEAU	PRODUCTOS: SELECCIÓN / NUEVO	PRODUKTY: SELECTION / NEW
+TextBlock	Lbl_SelectTable_Parameters_SetCutting_Pag_1_Real_Title	Nuovo Programma		Reale	Real	Real	Reel	Real	Royal
+TextBlock	Lbl_SelectTable_Parameters_SetCutting_Pag_2_Real_Title	Nuovo Programma		Reale	Real	Real	Reel	Real	Royal
+TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_1_Edit_Title	Nuovo Programma		Edita	Edit	Edit	Edit	Editar	Upravi?
+TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_1_Setting_Title	Nuovo Programma		Imposta	Set	Set	Ensemble	Conjunto	Súprava
+TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_2_Edit_Title	Nuovo Programma		Edita	Edit	Edit	Edit	Editar	Edit
+TextBlock	Lbl_SelectTable_SetCutting_Selection_Page_2_Setting_Title	Nuovo Programma		Imposta	Set	Set	Ensemble	Set	Sada
+TextBlock	lbl_SetCutting_Programs_Title	Seleziona Esistente		LISTA PROGRAMMI DI TAGLIO	LIST OF CUTTING PROGRAMS	LISTE DER SCHNITTPROGRAMME	LISTE DES PROGRAMMES DE COUPE	LISTA DE PROGRAMAS DE CORTE	ZOZNAM STRIHACÍCH PROGRAMOV
+TextBlock	lbl_SetCutting_Programs_Titles_BladeRPM	Seleziona Esistente		GIRI LAMA	BLADE SPEED	KLINGE RPM	VITESSE DE LA LAME	RPM HOJA	BLADE RPM
+TextBlock	lbl_SetCutting_Programs_Titles_Carriagepeed	Seleziona Esistente		FETTE / MIN	SLICES / MIN	SCHEIBEN / MIN	TRANCHES / MIN	CORTES / MIN	SLICE / MIN
+TextBlock	lbl_SetCutting_Programs_Titles_CarriageSpan	Seleziona Esistente		DIMENSIONE	DIMENSION	Größe	TAILLE	TAMAÑO	SIZE
+TextBlock	lbl_SetCutting_Programs_Titles_DescriptionProgramList	Seleziona Esistente		< DESCRIZIONE >	< DESCRIPTION >	< BESCHREIBUNG >	< DESCRIPTION >	< DESCRIPCIÓN >	< POPIS >
+TextBlock	lbl_SetCutting_Programs_Titles_DescriptionProgramList1	Seleziona Esistente		[ PRODOTTO ]	[ PRODUCT ]	[ PRODUKT ]	[ PRODUIT ]	[PRODUCTO]	[ PRODUCT ]
+TextBlock	lbl_SetCutting_Programs_Titles_Product_Arrangment	Seleziona Esistente		DISPOSIZIONE	ARRANGEMENT	ANORDNUNG	AFFICHAGE	DISPOSICIÓN	PREVENCIA
+TextBlock	lbl_SetCutting_Programs_Titles_ProductSize	Seleziona Esistente		FORMA	SHAPE	FORM	FORME	FORMA	SHAPE
+TextBlock	lbl_SetCutting_Programs_Titles_ProgramsList	Seleziona Esistente		PROGRAMMA	PROGRAM	PROGRAMM	PROGRAMME	PROGRAMA	PROGRAM
+TextBlock	lbl_SetCutting_Programs_Titles_Slices_Row_1_Title	Seleziona Esistente		QUANTITA'	QUANTITY	MENGE	QUANTITE'	CANTIDAD	KVALITA
+TextBlock	lbl_SetCutting_Programs_Titles_Slices_Row_2_Title	Seleziona Esistente		FETTE / PIANI	SLICES / PLANES	SCHEIBEN / PLANE	TRANCHES / PLANS	HOJAS/PLACAS	SLICE/PLATNE
+TextBlock	lbl_SetCutting_Programs_Titles_ThicknessSlices	Seleziona Esistente		SPESSORE	THICKNESS	DICKE	EPAISSEUR	ESPESOR	HRUBOS?
+TextBlock	lbl_SettingsGenerics_Color_Background_Title	Impostazioni: Generale		COLORE < SFONDO >	COLOR < BACKGROUND >	< HINTERGRUND > FARBE	COULEUR < FOND >	COLOR < FONDO >	FARBA < POZADIE >
+TextBlock	lbl_SettingsGenerics_ExecuteButtonEnable_Title	Impostazioni: Generale		VISUALIZZA PULSANTE < ESEGUI >	VIEW < RUN > BUTTON	TASTE < AUSFÜHREN > ANZEIGEN	VOIR LE BOUTON < EXECUTER >	BOTÓN DE VISUALIZACIÓN < EJECUTAR >	TLA?IDLO ZOBRAZENIA < SPUSTI? >
+TextBlock	lbl_SettingsGenerics_Title	Impostazioni: Generale		IMPOSTAZIONI: GENERALE	SETTINGS: GENERAL	EINSTELLUNGEN: ALLGEMEIN	PARAMETRES: GENERAL	AJUSTES: GENERAL	NASTAVENIA: VŠEOBECNÉ
+TextBlock	lbl_SettingsGenerics_Title1	Impostazioni: Generale		GENERALE	GENERAL	GENERAL	GENERAL	GENERAL	VŠEOBECNÉ
+TextBlock	lbl_SettingsGenerics_Diagnostic_Extesive_Title	Impostazioni: Generale		DIAGNOSTICA ESTESA < ABILITA >	EXTENDED DIAGNOSTICS < ENABLE >	ERWEITERTE DIAGNOSE < AKTIVIEREN >	DIAGNOSTIC ETENDU < ACTIVER >	DIAGNÓSTICO AMPLIADO < HABILITAR >	ROZŠÍRENÁ DIAGNOSTIKA < POVOLI? >
+TextBlock	lbl_SettingsGenerics_CuttingCycle_Verify_Title	Impostazioni: Generale		CICLO DI TAGLIO CONTINUO < ABILITA >	CONTINUOUS CUTTING CYCLE < ENABLE >	KONTINUIERLICHER SCHNEIDZYKLUS < AKTIVIEREN >	CYCLE DE COUPE CONTINUE < ACTIVER >	CICLO DE CORTE CONTINUO < HABILITAR >	NEPRETRŽITÝ CYKLUS REZANIA < POVOLI? >
+TextBlock	lbl_SettingsGenerics_Products_MandatoryChoise_Title	Impostazioni: Generale		PRODOTTO: SCELTA OBBLIGATA < ABILITA >	PRODUCT: REQUIRED CHOICE < ENABLE >	PRODUKT: ERFORDERLICHE AUSWAHL < AKTIVIEREN >	PRODUIT: CHOIX REQUIS < ACTIVER >	PRODUCTO: ELECCIÓN FORZADA < HABILITAR >	VÝROBOK: VYNÚTENÁ VO?BA < POVOLI? >
+TextBlock	lbl_SettingsGenerics_Maintenance_TimeFrameInterval_Title	Impostazioni: Generale		MANUTENZIONE : TEMPO TRA DIAPOSITIVE	MAINTENANCE: TIME BETWEEN SLIDES	WARTUNG: ZEIT ZWISCHEN DIA	ENTRETIEN: TEMPS ENTRE LES DIAPOSITIVES	MANTENIMIENTO: TIEMPO ENTRE DESLIZAMIENTOS	ÚDRŽBA: ?AS MEDZI POSUNMI
+TextBlock	lbl_SettingsGenerics_SettingsGeneric_Setup_Sensors_Coil_EnableAppRestart_Title	Impostazioni: Generale		SETUP MAGNETE: ABILITA RIAVVIO APP	SETUP MAGNETE: ABILITA RIAVVIO APP	MAGNET-SETUP: APP-NEUSTART AKTIVIEREN	CONFIGURATION DE L'AIMANT: ACTIVER LE REDEMARRAGE DE L'APP.	CONFIGURACIÓN DEL IMÁN : HABILITAR REINICIO DE LA APLICACIÓN	NASTAVENIE MAGNETU : POVOLI? REŠTART APLIKÁCIE
+TextBlock	lbl_SettingsGenerics_Maintenance_UpdateSlides_Title	Impostazioni: Generale		MANUTENZIONE : AGGIORNA IMMAGINI	MAINTENANCE: UPDATE IMAGES	WARTUNG: BILDER AKTUALISIEREN	ENTRETIEN: MISE A JOUR DES IMAGES	MANTENIMIENTO : ACTUALIZAR IMÁGENES	ÚDRŽBA : AKTUALIZÁCIA OBRÁZKOV
+TextBlock	lbl_SettingsGenerics_DataTime_Title	Impostazioni: Generale		DATA / ORA	DATE / TIME	DATUM / STUNDE	DATE / HEURE	FECHA / HORA	DÁTUM / ?AS
+TextBlock	lbl_SettingsGenerics_DateTime_Day_Title	Impostazioni: Generale		GIORNO:	DAY:	TAG:	JOUR:	DÍA	DAY (DE?): VYTVORENIE SNÍMKOV:
+TextBlock	lbl_SettingsGenerics_DateTime_Month_Title	Impostazioni: Generale		MESE:	MONTH:	MONAT:	MOIS:	MES:	MESIAC:
+TextBlock	lbl_SettingsGenerics_DateTime_Year_Title	Impostazioni: Generale		ANNO:	YEAR:	JAHR:	ANNEE:	AÑO:	ROK:
+TextBlock	lbl_SettingsGenerics_DateTime_Hours_Title	Impostazioni: Generale		ORE:	HOURS:	STD:	HEURES:	HORAS:	HODINY:
+TextBlock	lbl_SettingsGenerics_DateTime_Minutes_Title	Impostazioni: Generale		MINUTI:	MINUTES:	PROTOKOLL:	MINUTES:	MINUTOS:	MINÚTY:
+TextBlock	lbl_SettingsGenerics_DateTime_Seconds_Title	Impostazioni: Generale		SECONDI:	SECONDS:	SEKUNDEN:	SECONDES:	SEGUNDOS:	SEKUNDY:
+TextBlock	Lbl_SettingsSensors_Encoder_GenericErrorRegister_Title	Impostazione Sensori		ERRORI SENSORI (reg. 901)	SENSORS ERRORS (reg. 901)	SENSORFEHLER (reg. 901)	DETECTEURS D'ERREURS (reg. 901)	ERRORES DE SENSOR (reg. 901)	Chyby sníma?ov (reg. 901)
+TextBlock	Lbl_SettingsSensors_Encoder_GenericStatusRegister_Title	Impostazione Sensori		REGISTRO DI STATO (reg. 000)	STATUS REGISTER (reg. 000)	STATUSREGISTER (reg. 000)	ENREGISTREMENT DE STATUT (reg. 000)	REGISTRO DE ESTADO (reg. 000)	REGISTER STAVU (reg. 000)
+TextBlock	lbl_SettingsSensors_Encoder_Position_Actual_Title	Impostazione Sensori		POSIZIONE ATTUALE	ACTUAL POSITION	AKTUELLE POSITION	POSITION ACTUELLE	POSICIÓN ACTUAL	AKTUÁLNA POLOHA
+TextBlock	Lbl_SettingsSensors_Encoder_SerialNumber_Title	Impostazione Sensori		ERRORI MAGNETE (reg. 400)	COIL ERRORS (reg. 400)	MAGNET FEHLER (reg. 400)	ERREURS D'AIMANT (reg. 400)	ERRORES DE IMÁN (reg. 400)	CHYBY MAGNETU (reg. 400)
+TextBlock	Lbl_SettingsSensors_Encoder_Speed_Actual_Title	Impostazione Sensori		OFFSET ATTUALE (reg. 403)	ACTUAL OFFSET (reg. 403)	PRÄSENTIEREN SIE OFFSET (reg. 403)	FFSET PRESENT (reg. 403)	OFFSET ACTUAL (reg. 403)	AKTUÁLNY ODSTUP (reg. 403)
+TextBlock	Lbl_SettingsSensors_Encoder_Temperature_Actual_Title	Impostazione Sensori		POSIZIONE HOME (reg. 408)	HOME POSITION (reg. 408)	AUSGANGPOSITION (reg. 408)	POSITION DE BASE (reg. 408)	POSICIÓN DE ORIGEN (reg. 408)	DOMÁCA POLOHA (reg. 408)
+TextBlock	lbl_SettingsSensors_Encoder_Title	Impostazione Sensori		ENCODER PETTINE STACCAFETTA	ENCODER DETACHER	KOPPLER ENCODER	ENCODEUR COMB PARTAGEE	CODIFICADOR DE PEINE DESMONTABLE	ODPOJITE?NÝ HREBE?OVÝ SNÍMA?
+TextBlock	Lbl_Diagnostic_Errors_Title	Diagnostica Errori		DIAGNOSTICA ERRORI: GESTIONE DIZIONARIO	ERROR DIAGNOSTICS: DICTIONARY MANAGEMENT	FEHLERDIAGNOSE: WORTERBUCHVERWALTUNG	DIAGNOSTIC DES ERREURS: GESTION DU DICTIONNAIRE	DIAGNÓSTICO DE ERRORES: GESTIÓN DEL DICCIONARIO	DIAGNOSTIKA CHÝB: SPRÁVA SLOVNÍKA
+TextBlock	Lbl_Diagnostic_Errors_Selection_Title	Diagnostica Errori		SELEZIONE ERRORE	SELECTION ERROR	AUSWAHLFEHLER	ERREUR DE SELECTION	SELECCIÓN DE ERRORES	VÝBER CHÝB
+TextBlock	Lbl_Diagnostic_Errors_SelectExists_Title	Diagnostica Errori		Nome	Name	Name	Nom	Nombre	Názov
+TextBlock	Lbl_Diagnostic_Errors_DescriptionExists_Title	Diagnostica Errori		Descrizione	Description	Beshreibung	Description	Descripción	Popis
+TextBlock	Lbl_Diagnostic_Errors_DescriptionEvent_Title	Diagnostica Errori		Evento	Event	Ereignis	Evenement	Evento	Udalos?
+TextBlock	Lbl_Diagnostic_Errors_New_Title	Diagnostica Errori		NUOVO ERRORE	NEW ERROR	NEUER FEHLER	NOUVELLE ERREUR	NUEVO ERROR	NEW ERROR
+TextBlock	Lbl_Diagnostic_Errors_NewName_Title	Diagnostica Errori		Nome	Name	Name	Nom	Nombre	Názov
+TextBlock	Lbl_Diagnostic_Errors_DescriptionNewName_Title	Diagnostica Errori		Descrizione	Description	Beshreibung	Description	Descripción	Popis
+TextBlock	Lbl_Diagnostic_Errors_Events_Title	Diagnostica Errori		Evento	Event	Ereignis	Evenement	Evento	Udalos?
+TextBlock	Lbl_User_Master_Data_Title	Gestione Operatori		GESTIONE OPERATORE	OPERATOR MANAGEMENT	BEDIENERVERWALTUNG	GESTION DES OPERATEURS	GESTIÓN DE OPERADORES	SPRÁVA OPERÁTORA
+TextBlock	Lbl_User_Master_Data_Selection_Title	Gestione Operatori		SELEZIONE	SELECTION	AUSWAHL	SELECTION	SELECCIÓN	SELECTION
+TextBlock	Lbl_User_Master_Data_SelectExists_Title	Gestione Operatori		Nome	Name	Name	Nom	Nombre	Názov
+TextBlock	Lbl_User_Master_Data_DescriptionExists_Title	Gestione Operatori		Reparto	Department	Abteilung	Departement	Departamento	Oddelenie
+TextBlock	Lbl_User_Master_Data_New_Title	Gestione Operatori		NUOVO	NEW	NEW	NOUVEAU	NUEVO	NOVINKA
+TextBlock	Lbl_User_Master_Data_NewName_Title	Gestione Operatori		Nome	Name	Name	Nom	Nombre	Názov
+TextBlock	Lbl_User_Master_Data_DescriptionNewName_Title	Gestione Operatori		Reparto	Department	Abteilung	Departement	Departamento	Oddelenie
+TextBlock	lbl_SettingsSensors_Fw_Version_Title1	Info : Versioni		VERSIONI	VERSIONS	VERSIONEN	VERSIONS	VERSIONES	VERZIE
+TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_Max_Title	Impostazione Sensori		VALORE SU FONDO SCALA	VALUE ON SCALA FUND	WERT AUF SCALA FUND	VALEUR SUR LE FONDS SCALA	VALOR A FONDO DE ESCALA	HODNOTA PRI PLNOM ROZSAHU
+TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_Min_Title	Impostazione Sensori		VALORE AL MINIMO	VALUE AT MINIMUM	MINDESTWERT	VALEUR AU MINIMUM	VALOR AL MÍNIMO	HODNOTA PRI MINIME
+TextBlock	lbl_SettingsSensors_Potentiometer_Sail_Offset_Title	Impostazione Sensori		OFFSET	OFFSET	OFFSET	OFFSET	OFFSET	OFFSET
+TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_RelativeAndReal_Title	Impostazione Sensori		VALORE RELATIVO	RELATIVE VALUE	RELATIVER WERT	VALEUR RELATIVE	VALOR RELATIVO	RELATÍVNA HODNOTA
+TextBlock	Lbl_SettingsSensors_Potentiometer_Sail_Resolution_Title	Impostazione Sensori		RISOLUZIONE	RESOLUTION	AUFLÖSUNG	RESOLUTION	RESOLUCIÓN	ROZLIŠENIE
+TextBlock	lbl_SettingsSensors_Potentiometer_Sail_Title	Impostazione Sensori		POTENZIOMETRO VELA	POTENTIOMETER SAIL	POTENZIOMETER SEGEL	POTENTIOMETRE VOILE	POTENCIÓMETRO DE VELA	PLACHTOVÝ POTENCIOMETER
+TextBlock	lbl_SettingsSensors_Title	Impostazione Sensori		IMPOSTAZIONI: SENSORI	SETTINGS: SENSORS	EINSTELLUNGEN: SENSOREN	REGLAGES: CAPTEURS	AJUSTES: SENSORES	NASTAVENIA: SNÍMA?E
+TextBlock	lbl_SettingsSensors_Coil_Init_Power_Title	Impostazione Sensori		POTENZA INIZIALE MAGNETE	MAGNET INITIAL POWER	ANFANGSLEISTUNG DES MAGNETEN	PUISSANCE INITIALE DE L'AIMANT	POTENCIA INICIAL DEL IMÁN	PO?IATO?NÝ VÝKON MAGNETU
+TextBlock	lbl_SettingsSensors_Coil_Init_Position_Power_Title	Impostazione Sensori		POSIZIONE INIZIALE MAGNETE	MAGNET INITIAL POSITION	AUSGANGSPOSITION DES MAGNETEN	POSITION INITIALE DE L'AIMANT	IMÁN POSICIÓN INICIAL	PO?IATO?NÁ POLOHA MAGNETU
+TextBlock	lbl_SettingsSensors_Coil_Brake_In_Trow_Power_Title	Impostazione Sensori		POTENZA RITORNO MAGNETE	MAGNET RETURN POWER	MAGNET-RUCKGABEKRAFT	PUISSANCE DE RETOUR DE L'AIMANT	POTENCIA DE RETORNO DEL IMÁN	SPÄTNÝ VÝKON MAGNETU
+TextBlock	lbl_SettingsSensors_Coil_Brake_In_Trow_Position_Power_Title	Impostazione Sensori		POSIZIONE RITORNO MAGNETE	MAGNET RETURN POSITION	MAGNET-RUCKGABEPOSITION	POSITION DE RETOUR DE L'AIMANT	POSICIÓN DE RETORNO DEL IMÁN	SPÄTNÁ POLOHA MAGNETU
+TextBlock	Lbl_SettingsSensors_Coil_In_Home_Hold_Position_Power_Title	Impostazione Sensori		POTENZA IN HOME MAGNETE	POWER IN HOME MAGNET	POWER-IN-HOME-MAGNET	PUISSANCE DANS L'AIMANT DE LA MAISON	POTENCIA DE INICIO DEL IMÁN	PO?IATO?NÝ VÝKON MAGNETU
+TextBlock	lbl_SettingsCuttingAreaLimit_Title	Impostazione Sensori		PIATTO: LIMITI AREA DI TAGLIO	PLATE: CUTTING AREA LIMITS	PLATTE: SCHNITTBEREICHSGRENZEN	PLAQUE: LIMITES DE LA ZONE DE COUPE	PLACA: LÍMITES DEL ÁREA DE CORTE	DOSKA: HRANICE REZNEJ PLOCHY
+TextBlock	lbl_Settings_Chain_LenghBladeAndTrow_Title	Impostazione Sensori		CATENA: AVANZ. / VEL. / RAPP.	CHAIN: ADVANCE. / VEL. / RAP.	KETTE: ADVANCE. / VEL. / RAP.	CHAINE: AVANCE. / VEL. / RAP.	CADENA: AVANCE / VELOCIDAD / RAPP.	RE?AZ: POSUV / RÝCHLOS? / RAP.
+TextBlock	lbl_SettingsRatioBlade_Title	Impostazione Sensori		LAMA / CARRO: CORREZIONI	BLADE / CARRIAGE: CORRECTIONS	KLINGE/WAGEN: KORREKTUREN	LAME / CHARIOT : CORRECTIONS	CUCHILLA / CARRO: CORRECCIONES	?EPE? / VOZÍK: KOREKCIE
+TextBlock	lbl_SettingsSensors_LenghtBladeAndTrow_Title	Impostazione Sensori		Avanzamento   (mm)	Avanzamento   (mm)	Fortschritt (mm)	Avancement (mm)	Avance (mm)	Posuv (mm)
+TextBlock	lbl_SettingsSensors_Coil_Speed_In_End_CuttingCycle_Title	Impostazione Sensori		Velocita'   (giri/min)	Speed (rpm)	Geschwindigkeit (U/min)	Vitesse    (tr/min)	Velocidad (rpm)	Otá?ky (ot/min)
+TextBlock	lbl_SettingsSensors_ChainRatioWithCarriageMovement_Title	Impostazione Sensori		Rapporto  (%)	Relationship (%)	Beziehung (%)	Relation (%)	Ratio (%)	Pomer (%)
+TextBlock	lbl_SettingsRatioBlade_Field_Title	Impostazione Sensori		LAMA: COEFFICIENTE DI CORREZIONE	BLADE: CORRECTION COEFFICIENT	KLINGE: KORREKTURKOEFFIZIENT	LAME: COEFFICIENT DE CORRECTION	CUCHILLA: COEFICIENTE DE CORRECCIÓN	?EPE?: KOREK?NÝ KOEFICIENT
+TextBlock	lbl_SettingsCarriageSpeedBack_Field_Title	Impostazione Sensori		CARRO: VELOCITA' RITORNO (%)	WAGON: RETURN SPEED (%)	WAGEN: RÜCKFAHRGESCHWINDIGKEIT (%)	WAGON: VITESSE DE RETOUR (%)	CARRO: VELOCIDAD DE RETORNO (%)	VOZÍK: RÝCHLOS? NÁVRATU (%)
+TextBlock	lbl_Statistics_Pie_Title	Statistics		RAPPRESENTAZIONE A TORTA	PIE REPRESENTATION	TORTE-VERTRETUNG	REPRESENTATION DE GATEAU	REPRESENTACIÓN DE LA TARTA	KOLÁ?OVÉ ZNÁZORNENIE
+TextBlock	lbl_Statistics_Title	Statistics		STATISTICA	STATISTICS	STATISTIK	STATISTIQUES	ESTADÍSTICAS	ŠTATISTIKA
+TextBlock	lbl_Statistics_ListOfOperators_Title	Statistics		LISTA OPERATORI	LIST OF USERS	LISTE DER BENUTZER	LISTE DES UTILISATEURS	LISTA DE OPERADORES	ZOZNAM OPERÁTOROV
+TextBlock	lbl_Statistics_ProductEnable_Title	Statistics		PRODOTTI	PRODUCTS	PRODUKTE	PRODUIT	PRODUCTOS	PRODUKTY
+TextBlock	lbl_Statistics_Date_Start_Title	Statistics		PERIODO: PARTENZA	PERIOD: START	ZEITRAUM: ABREISE	PERIODE : DEPART	PERIODO: SALIDA	OBDOBIE: ODCHOD
+TextBlock	lbl_Statistics_Date_End_Title	Statistics		PERIODO: FINE	PERIOD: END	PERIODEN ENDE	PERIODE : FIN	PERÍODO: FIN	OBDOBIE: KONIEC
+TextBlock	lbl_Statistics_TotalSlicesCutted_Title	Statistics		TOTALE FETTE TAGLIATE	TOTAL SLICES CUT	INSGESAMT SCHEIBEN GESCHNITTEN	TOTAL DES TRANCHES	TOTAL LONCHAS CORTADAS	CELKOVÝ PO?ET NAKRÁJANÝCH PLÁTKOV
+TextBlock	TBlock_Exist_Monitor_BladeSpeed_Title	Exist Monitor		GIRI LAMA	BLADE SPEED	KLINGE RPM	VITESSE DE LA LAME	VUELTAS DE CUCHILLA	OBRÁCANIE ?EPELÍ
+TextBlock	TBlock_Exist_Monitor_CarriageSpeed_Title	Exist Monitor		FETTE / MIN	SLICES / MIN	SCHEIBEN / MIN	TRANCHES / MIN	LONCHAS / MIN	KÚSY / MIN
+TextBlock	TBlock_Exist_Monitor_Pattern_Arrangement_Title	Exist Monitor		DISPOSIZIONE	ARRANGEMENT	ANORDNUNG	AFFICHAGE	DISPOSICIÓN	DISPOZÍCIA
+TextBlock	TBlock_Exist_Monitor_Pattern_Dimension_Title	Exist Monitor		DIMENSIONE	DIMENSION	Größe	TAILLE	TAMAÑO	VE?KOS?
+TextBlock	TBlock_Exist_Monitor_Pattern_Form_Title	Exist Monitor		FORMA	SHAPE	FORM	FORME	FORMA	SHAPE
+TextBlock	TBlock_Exist_Monitor_Pattern_Title	Exist Monitor		PATTERN	PATTERN	MUSTER	MODÈLE	PATRÓN	VZOR
+TextBlock	TBlock_Exist_Monitor_RealValue_Title	Exist Monitor		REAL	REAL	REAL	REEL	REAL	REAL
+TextBlock	TBlock_Exist_Monitor_SettedValue_Title	Exist Monitor		SET	SET	SET	SET	CONJUNTO	SET
+TextBlock	TBlock_Exist_Monitor_Sleces_Title	Exist Monitor		QUANTITA'	QUANTITY	MENGE	QUANTITE'	CANTIDAD	KVANTITA
+TextBlock	TBlock_Exist_Monitor_Planes_Title	Exist Monitor		PIANI	PLANES	PLANE	PLANS	SUELOS	PODLAHY
+TextBlock	TBlock_Exist_Monitor_Thickness_Title	Exist Monitor		SPESSORE	THICKNESS	DICKE	EPAISSEUR	GROSOR	H?BKA
+TextBlock	TBlock_MessageBox_Title	Spegni Macchina		Confermi uscita?	Confirm exit?	Freigabe bestätigen?	Confirmer la sortie?	¿Confirmar salida?	Potvrdi? výstup?
+TextBlock	TBlock_MotionDiagnostic_SlicesCutted	Motion Diag.		Ciclo #	Cycle #	Zyklus #	Cycle #	Ciclo #	Cyklus #
+TextBlock	lbl_SetCutting_StoringFile_Title	Archivio		EDITOR PROGRAMMI : GESTIONE ARCHIVIO FILES	PROGRAM EDITOR : MANAGMENT FILES	PROGRAMM EDITOR : DATEIEN ARCHIVVERWALTUNG	EDITEUR DE PROGRAMME : GESTION FILES ARCHIVES	EDITOR DE PROGRAMAS : GESTIÓN DE ARCHIVOS	EDITOR PROGRAMU : SPRÁVA ARCHÍVU SÚBOROV
+TextBlock	lbl_SetCutting_PlateDimension_Titles_X	Archivio		NOME DEL PROGRAMMA	PROGRAM NAME	PROGRAMMNAME	NOM DU PROGRAMME	NOMBRE DEL PROGRAMA	NÁZOV PROGRAMU
+TextBlock	lbl_SetCutting_FileStored_Title	Archivio		LISTA ESISTENTI	EXISTENTS LIST	VORHANDENE LISTE	LISTE EXISTANTE	LISTA EXISTENTE	EXISTUJÚCI ZOZNAM
+TextBlock	lbl_SetCutting_FileToStore_Title	Archivio		SALVA NUOVO	SAVE NEW	NEU SPEICHERN	ENREGISTRER NOUVEAU	GUARDAR NUEVO	ULOŽI? NOVÝ
+TextBlock	Lbl_SetCutting_ProgramDescription_Title	Archivio		Descrizione Programma	Program Description	Programm Beschreibung	Description du programme	Descripción del programa	Popis programu
+TextBlock	Lbl_SelectTable_Parameters_SetCutting_Pag_1_Option_Title	Nuovo Programma		Opzione	Option	Moglichkeit	Option	Opción	Možnos?
+TextBlock	Lbl_UsersList	OPERATORI		LISTA OPERATORI	LIST OF USERS	LISTE DER BENUTZER	LISTE DES UTILISATEURS	LISTA DE OPERADORES	ZOZNAM OPERÁTOROV
+TextBlock	Lbl_UsersList_UserName_Title	OPERATORI		OPERATORE	USER	BENUTZER	UTILISATEUR	OPERADOR	OPERÁTOR
+TextBlock	Lbl_UsersList_UserDescription_Title	OPERATORI		REPARTO	DEPARTEMENT	ABTEILUNG	DEPARTEMENT	DEPARTAMENTO	ODDELENIE
+TextBlock	lbl_New_Program_Parameters_SetCutting_Title	Nuovo Programma		ESECUZIONE	EXCECUTION	AUSFUHRUNG	EXECUTION	EJECUCIÓN	VÝKON
+TextBlock	lbl_Statistics_Error	Statistica		Attenzione: nessun record trovato con i criteri scelti!	Warning: no records found with the chosen criteria!	Achtung: Es wurden keine Datensatze mit den gewählten Kriterien gefunden!	Attention : aucun enregistrement trouvé avec les critères choisis !	Atención: ¡no se han encontrado registros con los criterios elegidos!	Pozor: Nenašli sa žiadne záznamy so zvolenými kritériami!
+TextBlock	Lbl_SelectTable_Planes_Pause_Title	Nuovo Programma		Intervallo	Iinterval	Intervall	Intervalle	Intervalo	Rozsah
+TextBlock	Lbl_Program_Exist_Planes_Pause_Title	Seleziona Esistente		Intervallo	Iinterval	Intervall	Intervalle	Intervalo	Interval
+TextBlock	Lbl_WarningForPile	Nuovo Programma		Nota: la quantita' di fette impostata corrisponde alla singola pigna.	Note: the set quantity of slices corresponds to the single pine cone.	Hinweis: Die eingestellte Scheibenanzahl entspricht dem einzelnen Tannenzapfen.	Remarque: la quantite' de tranches de'finie correspond a' une seule pomme de pin.	Nota: la cantidad de rodajas fijada corresponde a una sola piña.	Poznámka: množstvo nastavených plátkov zodpovedá jednej šiške.
+TextBlock	lbl_Maintenance_ListOfOperations_Title	Manutenzione		LISTA OPERAZIONI	OPERATIONS LIST	LISTE DER OPERATIONEN	LISTE DES OPERATIONS	LISTA DE OPERACIONES	ZOZNAM OPERÁCIÍ
+CheckBox	ChkBox_SelectTable_Parameters_SetCutting_Slices_Option	Nuovo Programma		ESPANDE	EXPAND	ERWEITERT	EXPLEND	AMPLIAR	ROZŠÍRI?
