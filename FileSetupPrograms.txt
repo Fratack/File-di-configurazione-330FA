@@ -1,3 +1,3 @@
 [CLASS-PROGRAMS]
 ID	Nome Programma	Descrizione Programma	Numero Fette	Spessore Fette	Velocita' Carro	Corsa del Carro	Dimensione del Prodotto	Disposizione Fette	Giri Lama (RPM)	TAG <Abilitazione>	TAG <Numero Fette>	TAG <Spessore Fette>	TAG <Velocita' Carro (giri/min)>	TAG <Giri Lama (RPM)>	Dimensione	Forma	Disposizione	Nome Prodotto	Descrizione Prodotto	Piani di taglio	Opzione	Profilo Pattern
-ID	TEST	test	16	1	150	----	0	20	230	DISABLED-DISABLED-ENABLED-DISABLED	TAG @ 15	1	40	VEL 1	/Assets/Pattern/Dimensione/Dimensione_Piccolo_60mm.jpg	/Assets/Pattern/Forme/FormaVerticaleCentrata.jpg	/Assets/Pattern/Disposizione/FetteDisposteLarghe_FilaDoppia.jpg	SALUME	GENERICO	5	DEFAULT	RETTANGOLARE
+
