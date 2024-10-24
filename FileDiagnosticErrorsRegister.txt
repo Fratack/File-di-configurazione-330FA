@@ -1,7 +1,3 @@
 [CLASS-DIAGNOSTIC]														
 ID	Nome Errore	Descrizione Errore	Associazione Evento														
-1	ERR-01	ERR-01_DESC	ERRORE CICLO														
-3	ERR-03	ERR-03_DESC	EVENTO 6														
-4	ERR-04	ERR-04_DESC	EVENTO 7														
-5	ERR-05	ERR-05_DESC	EVENTO 2			
-6	ERR-02	ERR-06_DESC	EVENTO 5			
+	

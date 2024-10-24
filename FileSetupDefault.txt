@@ -1,3 +1,3 @@
 [CLASS-RANGE]
 Numero Fette Minimo	Numero Fette Massimo	Incremento	Preferenza	Spessore Fette Minimo	Spessore Fette Massimo	Incremento	Preferenza	Velocita' Carro Minimo (giri/min)	Velocita' Carro (Massimo giri/min)	Incremento	Preferenza	Corsa del Carro Minima	Corsa del Carro Massima	Incremento	Preferenza	Dimensione Prodotto Minima	Dimensione Prodotto Massima	Incremento	Preferenza	Disposizione Fette Indice Minimo	Disposizione Fette Indice Massimo	Incremento	Prefisso (Testo)	Giri Lama Minimo(RPM)	Giri Lama Massimo (RPM)	Incremento	Preferenza
-1	100	1	1	1	7.5	0.5	1	50	250	50	150	10	50	10	20	1	10	1	1	100	100	1	TPS-	180	250	10	230
+1	128	1	1	1	7.5	0.5	1	50	250	50	150	10	50	10	20	1	10	1	1	100	100	1	TPS-	180	250	10	230
