@@ -45,7 +45,7 @@ Button	Btn_SelectTable_UserSetup_User_MasterData	Menu User		OPERATORI	OPERATORS	
 Button	Btn_SelectTable_UserSetup_Diagnostic_Error_Table	Menu User		DIAGNOSTICA	DIAGNOSTICS	DIAGNOSE	DIAGNOSTIC	DIAGNÓSTICO	DIAGNOSTIKA	DIAGNOSTYKA			
 Button	Btn_SelectTable_UserSetup_Motion_Verify	Menu User		MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	DIAGNÓSTICO MOV.	DIAGNOSTIKA POHYBU	DIAG. RUCHU			
 Button	Btn_SetCutting_Programs_ConfirmSelection	Seleziona Esistente		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	Spusti	WYKONAJ			
-Button	Btn_SetCutting_Programs_Tap_Cancel	Seleziona Esistente		ANNULLA	CANCEL	ZURÜCK	ANNULER	CANCELAR	Zruš	ANULUJ			
+Button	Btn_SetCutting_Programs_Tap_Cancel	Seleziona Esistente		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ				
 Button	Btn_SettingsGenerics_Close	Impostazioni: Generale		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_SettingsSensors_Encoder_Close	Impostazione Sensori		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_SettingsSensors_Encoder_Close1	Info : Versioni		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
@@ -53,16 +53,16 @@ Button	Btn_SettingsSensors_Potentiometer_Sail_Max_Copy_Value	Impostazione Sensor
 Button	Btn_SettingsSensors_Potentiometer_Sail_Min_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER	COPIA	KOPÍROVANIE	KOPIUJ			
 Button	Btn_SettingsSensors_Potentiometer_Sail_Offset_Copy_Value	Impostazione Sensori		COPIA	COPY	KOPIERE	COPIER	COPIA	KOPÍROVANIE	KOPIUJ			
 Button	Btn_SettingsSensors_Potentiometer_Sail_Setup_Store	Impostazione Sensori		SALVA SETUP POTENZIOMETRO	SAVE POTENTIOMETER SETUP	POTENZIOMETEREINSTELLUNGEN SPEICHERN	SAUVEGARDER LA CONFIGURATION DU POTENTIOMÈTRE	GUARDAR AJUSTE POTENCIÓMETRO	ULOŽENIE NASTAVENIA POTENCIOMETRA	ZAPISZ USTAWIENIE POTENCJOMETRU			
-Button	Btn_SettingsSensors_SetHomePosition	Impostazione Sensori		IMPOSTA POSIZIONE DI HOME	SET HOME POSITION	SET HOME POSITION	SET POSITION DE REFERENCE	AJUSTAR POSICIÓN INICIAL	NASTAVENIE VÝCHODISKOVEJ POLOHY	USTAW POZYCJĘ POCZĄTKOWĄ			
+Button	Btn_SettingsSensors_SetHomePosition	Impostazione Sensori		IMPOSTA POSIZIONE DI HOME	SET HOME POSITION	SET HOME POSITION	SET POSITION DE REFERENCE	AJUSTAR POSICIÓN INICIAL	NASTAVENIE VÝCHODISKOVEJ POLOHY	USTAW POZYCJ? POCZ?TKOW?			
 Button	Btn_Statistics_Close	Statistics		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
-Button	Btn_Maintenance_Washing	Manutenzione		LAVAGGIO	WASHING	WASHEN	LAVAGE	LAVAR	Umývanie	PŁUKANIE			
-Button	Btn_Maintenance_Washing_Stop	Manutenzione		ARRESTA	STOP	STOPPEN	STOP	PARAR	STOP	STOP			
+Button	Btn_Maintenance_Stop	Manutenzione		ARRESTA	STOP	STOPPEN	STOP	PARAR	STOP	STOP			
 Button	Btn_SelectTable_Program_InvoqueArchive	Archivio		ARCHIVIO	ARCHIVE	ARCHIV	ARCHIVE	ARCHIVAR	ARCHÍV	ARCHIWUM			
 Button	Btn_SetCutting_StoringFile_Close	Archivio		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_SetCutting_StoringFile_Save	Archivio		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	ULOŽIŤ	ZAPISZ			
 Button	Btn_UsersList_Next	OPERATORI		PROSEGUI	CONTINUE	WEITERMACHEN	CONTINUER	CONTINUAR	Pokračovať	KONTYNUUJ			
 Button	Btn_SelectTable_Planes	Nuovo Programma		RIPETIZIONE STRATI	REPETITION STRETCHES	WIEDERHOLUNG DehnUbungen	ETIREMENTS DE REPETITION	REPETIR CAPAS	Opakovať vrstvy	POWTARZANIE KROKÓW			
-Button	Btn_SelectTable_Parameters_SetCutting_Pause	Nuovo Programma		PAUSA	PAUSE	BRECHEN	PAUSE	PAUSA	PAUZA	PAUZA			
+Button	Btn_SelectTable_Parameters_SetCutting_Pause	Nuovo Programma		PAUSA	PAUSE	BRECHEN	PAUSE	PAUSA	PAUZA	PAUZA	
+Button	Btn_Exist_Monitor_Pause	Monitor Esistente		PAUSA	PAUSE	BRECHEN	PAUSE	PAUSA	PAUZA	PAUZA
 Button	Btn_New_Program_Parameters_SetCutting_Close	Nuovo Programma		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_Maintenance_Start	Manutenzione		AVVIA	START	START	COMMENCER	INICIAR	Štart	START			
 Button	Btn_Statistic_Executes	Statistics		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	SPUSTI	WYKONAJ 			
@@ -82,8 +82,9 @@ Button	Btn_Diagnostic_Errors_Save	Diagnostica Errori		SALVA	SAVE	SPAREN	SAUVER	G
 Button	Btn_Diagnostic_Errors_Cancel	Diagnostica Errori		CANCELLA	CLEAR	CLEAR	ANNULER	BORRAR	Vymaž	ZAMKNIJ			
 Button	Btn_Diagnostic_Errors_Close	Diagnostica Errori		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_Program_Exist_Modify_Slices_Quantity_ConfirmChoices	Esistente		CONFERMA	CONFIRM	CONFIRM	CONFIRMER	CONFIRMAR	Vypni stroj	POTWIERDŹ			
-Button	Btn_SettingsCarriageTuning_Start	Impostazione Sensori		AVVIO TUNING	TUNING START	TUNING START	DÉMARRAGE DU RÉGLAGE	INICIO DE SINTONIZACIÓN	Zavri	ROZPOCZĘCIE STROJENIA			
-ButtonSpec	Btn_Close_Save_Selections	Principale		SPEGNI LA MACCHINA	TURN OFF THE MACHINE	MASCHINE AUSSCHALTEN	ETEINDRE LA MACHINE	APAGAR	Pokračovať	WYŁĄCZ			
+Button	Btn_SettingsCarriageTuning_Start	Impostazione Sensori		AVVIO TUNING	TUNING START	TUNING START	DÉMARRAGE DU RÉGLAGE	INICIO DE SINTONIZACIÓN	Zavri	ROZPOCZĘCIE STROJENIA		
+Button	Btn_Exsist_Monitor_End	Esistente Monitor		TERMINA	ENDS	ENDEN	EXTREMITES	FINALIZAR	Pauza	KONIEC		
+ButtonSpec	Btn_Close_Save_Selections	Principale		SPEGNI LA MACCHINA	TURN OFF THE MACHINE	MASCHINE AUSSCHALTEN	ETEINDRE LA MACHINE	APAGAR	Pokračovať	WYŁĄCZANIE MASZYNY			
 GlobalVar	ButtonText_Close	Variabili Globali		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Nastav rez	ZAMKNIJ			
 GlobalVar	ButtonText_Continue	Variabili Globali		CONTINUA	CONTINUE	WEITER	CONTINUER	CONTINUAR	PARAMETRE REZANIA	KONTYNUUJ			
 GlobalVar	ButtonText_CuttingSetting	Variabili Globali		IMPOSTA TAGLIO	SET CUT	STELLEN SIE DEN SCHNITT EIN	DEFINIR LA COUPE	FIJAR CORTE	KONIEC	USTAWIANIE CIĘCIA			
@@ -115,6 +116,11 @@ GlobalVar	PanelText_MachineRestart	Variabili Globali		Macchina in riavvio, atten
 GlobalVar	PanelText_AppRestart	Variabili Globali		Applicazione in riavvio, attendere...	Application restarting, please wait...	Anwendung wird neu gestartet, bitte warten...	Redemarrage de l'application, veuillez patienter...	Aplicación reiniciando, por favor espere...	  Zoznam usporiadaní priraditeľných k vzoru	Aplikacja uruchamia się ponownie, poczekaj...			
 GlobalVar	GlobalVar_CHAIN	Variabili Globali		CATENA	CHAIN	KETTE	CHAINE	CADENA	  Zoznam veľkostí priraditeľných k vzoru	Łańcuch 			
 GlobalVar	GlobalVar_PLATE	Variabili Globali		PIATTO	PLATE	PLATTE	PLAQUE	PLACA	  Zoznam tvarov priraditeľných k vzoru	PŁYTA			
+GlobalVar	GlobalVar_MaintenanceListAs_Disassembly	Variabili Globali		SMONTAGGIO	DISMANTLING	DEMONTAGE	DÉMONTAGE	DESMONTAJE	DEMONTÁŽ	DEMONTAŻ	
+GlobalVar	GlobalVar_MaintenanceListAs_BladeSharpener	Variabili Globali		AFFILATURA	SHARPENING		SCHÄRFUNG	AFFÛTAGE	AFILADO	BRÚSENIE	OSTRZENIE	
+GlobalVar	GlobalVar_MaintenanceListAs_Lubrification	Variabili Globali		LUBRIFICAZIONE	LUBRICATION	SCHMIERUNG	LUBRIFICATION	LUBRICACIÓN	MAZANIE	SMAROWANIE	
+GlobalVar	GlobalVar_MaintenanceListAs_Option_4	Variabili Globali		OPZIONE 4	OPTION 4	OPTION 4	OPTION 4	OPCIÓN 4	MOŽNOSŤ 4	OPCJA 4	
+GlobalVar	GlobalVar_MaintenanceListAs_Option_5	Variabili Globali		OPZIONE 5	OPTION 5	OPTION 5	OPTION 5	OPCIÓN 5	MOŽNOSŤ 5	OPCJA 5	
 GridView	Album_SetCutting_IconList_Type_Dimension	Nuovo Programma		Scelta per Dimensione	Choice by Size	Auswahl nach Größe	Choix par Taille	Ordenar por tamaño	POČKAJTE CHVÍĽU: PREBIEHA UKLADANIE PREDVOLENÝCH PARAMETROV	Sortuj według rozmiaru			
 GridView	Album_SetCutting_IconList_Type_Form	Nuovo Programma		Scelta per Forma	Choice by Shape	Auswahl nach Form	Choix par Forme	Ordenar por forma	USPORIADANIE PLÁTKOV	Wybór według kształtu			
 GridView	Album_SetCutting_IconList_Type_Arrangment	Nuovo Programma		Scelta per Disposizione	Choice by Arrangment	Wahl nach Vereinbarung	Choix par Arrangement	Elegir por Arreglo	OTÁČKY KOTÚČA	Wybór według układu			
@@ -325,7 +331,6 @@ TextBlock	lbl_Statistics_Error	Statistica		Attenzione: nessun record trovato con
 TextBlock	Lbl_SelectTable_Planes_Pause_Title	Nuovo Programma		Intervallo	Iinterval	Intervall	Intervalle	Intervalo	Interval	Zakres			
 TextBlock	Lbl_Program_Exist_Planes_Pause_Title	Seleziona Esistente		Intervallo	Iinterval	Intervall	Intervalle	Intervalo	Interval	Przedział			
 TextBlock	Lbl_WarningForPile	Nuovo Programma		Nota: la quantita' di fette impostata corrisponde alla singola pigna.	Note: the set quantity of slices corresponds to the single pine cone.	Hinweis: Die eingestellte Scheibenanzahl entspricht dem einzelnen Tannenzapfen.	Remarque: la quantite' de tranches de'finie correspond a' une seule pomme de pin.	Nota: la cantidad de rodajas fijada corresponde a una sola piña.	Poznámka: Nastavené množstvo plátkov zodpovedá jednej šiške.	Uwaga: Ilość zestawów plastrów odpowiada pojedynczemu stosowi.  			
-TextBlock	lbl_Maintenance_ListOfOperations_Title	Manutenzione		LISTA OPERAZIONI	OPERATIONS LIST	LISTE DER OPERATIONEN	LISTE DES OPERATIONS	LISTA DE OPERACIONES	ZOZNAM OPERÁCIÍ	LISTA OPERACJI			
 TextBlock	lbl_Program_Exist_Modify_Slices_Quantity_Title	Seleziona Esistente		FETTE / PIANI / SPESSORE	SLICES / PLANES / THICKNESS	SCHEIBEN / PLANE / DICKE	TRANCHES / PLANS / EPAISSEUR	HOJAS / PLACAS / GROSOR 	PLÁTY / PLOCHY / HRÚBKA	PLASTRY / PŁASZCZYZNY / GRUBOŚĆ			
 TextBlock	Lbl_Program_Exist_Modify_Slices_Quantity_Thickness_Thickness_Title	Seleziona Esistente		Spessore	Thickness	Dicke	Epaisseur	Grosor	Hrúbka	Grubość			
 TextBlock	Lbl_Program_Exist_Modify_Slices_Quantity_Slices_Title	Seleziona Esistente		Fette	Slices	Scheiben	TRANCHES / MIN	Hojas	Plátky	Płaszczyzny			
