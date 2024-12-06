@@ -45,7 +45,7 @@ Button	Btn_SelectTable_UserSetup_User_MasterData	Menu User		OPERATORI	OPERATORS	
 Button	Btn_SelectTable_UserSetup_Diagnostic_Error_Table	Menu User		DIAGNOSTICA	DIAGNOSTICS	DIAGNOSE	DIAGNOSTIC	DIAGNÓSTICO	DIAGNOSTIKA	DIAGNOSTYKA			
 Button	Btn_SelectTable_UserSetup_Motion_Verify	Menu User		MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	MOTION DIAG.	DIAGNÓSTICO MOV.	DIAGNOSTIKA POHYBU	DIAG. RUCHU			
 Button	Btn_SetCutting_Programs_ConfirmSelection	Seleziona Esistente		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	Spusti	WYKONAJ			
-Button	Btn_SetCutting_Programs_Tap_Cancel	Seleziona Esistente		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ				
+Button	Btn_SetCutting_Programs_Tap_Cancel	Seleziona Esistente		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_SettingsGenerics_Close	Impostazioni: Generale		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_SettingsSensors_Encoder_Close	Impostazione Sensori		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_SettingsSensors_Encoder_Close1	Info : Versioni		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
@@ -83,13 +83,14 @@ Button	Btn_Diagnostic_Errors_Cancel	Diagnostica Errori		CANCELLA	CLEAR	CLEAR	ANN
 Button	Btn_Diagnostic_Errors_Close	Diagnostica Errori		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Zavri	ZAMKNIJ			
 Button	Btn_Program_Exist_Modify_Slices_Quantity_ConfirmChoices	Esistente		CONFERMA	CONFIRM	CONFIRM	CONFIRMER	CONFIRMAR	Vypni stroj	POTWIERDŹ			
 Button	Btn_SettingsCarriageTuning_Start	Impostazione Sensori		AVVIO TUNING	TUNING START	TUNING START	DÉMARRAGE DU RÉGLAGE	INICIO DE SINTONIZACIÓN	Zavri	ROZPOCZĘCIE STROJENIA		
-Button	Btn_Exsist_Monitor_End	Esistente Monitor		TERMINA	ENDS	ENDEN	EXTREMITES	FINALIZAR	Pauza	KONIEC		
+Button	Btn_Exsist_Monitor_End	Esistente Monitor		TERMINA	ENDS	ENDEN	ARRETER	FINALIZAR	Pauza	KONIEC		
+Button	Btn_SetCutting_Programs_SetCutting_Pause	Esistente		PAUSA	PAUSE	BRECHEN	PAUSE	PAUSA	PAUZA	PAUZA		
 ButtonSpec	Btn_Close_Save_Selections	Principale		SPEGNI LA MACCHINA	TURN OFF THE MACHINE	MASCHINE AUSSCHALTEN	ETEINDRE LA MACHINE	APAGAR	Pokračovať	WYŁĄCZANIE MASZYNY			
 GlobalVar	ButtonText_Close	Variabili Globali		CHIUDI	CLOSE	SCHLIESSEN	FERMER	CERRAR	Nastav rez	ZAMKNIJ			
 GlobalVar	ButtonText_Continue	Variabili Globali		CONTINUA	CONTINUE	WEITER	CONTINUER	CONTINUAR	PARAMETRE REZANIA	KONTYNUUJ			
 GlobalVar	ButtonText_CuttingSetting	Variabili Globali		IMPOSTA TAGLIO	SET CUT	STELLEN SIE DEN SCHNITT EIN	DEFINIR LA COUPE	FIJAR CORTE	KONIEC	USTAWIANIE CIĘCIA			
 GlobalVar	ButtonText_CuttingsParameters	Variabili Globali		PARAMETRI DI TAGLIO	CUTTING PARAMETERS	SCHNEIDPARAMETER	PARAMETRES DE COUPE	PARÁMETROS DE CORTE	Spusti	PARAMETRY CIĘCIA			
-GlobalVar	ButtonText_Ends	Variabili Globali		TERMINA	ENDS	ENDEN	EXTREMITES	FINALIZAR	Pauza	KONIEC			
+GlobalVar	ButtonText_Ends	Variabili Globali		TERMINA	ENDS	ENDEN	ARRETER	FINALIZAR	Pauza	KONIEC			
 GlobalVar	ButtonText_Run	Variabili Globali		ESEGUI	RUN	LAUF	EXECUTER	EJECUTAR	Ulož	WYKONAJ 			
 GlobalVar	ButtonText_Pause	Variabili Globali		PAUSA	PAUSE	BRECHEN	PAUSE	PAUSA	VYPNUTIE STROJA	PAUZA			
 GlobalVar	ButtonText_Save	Variabili Globali		SALVA	SAVE	SPAREN	SAUVER	GUARDAR	Nastavenie	ZAPIS			
